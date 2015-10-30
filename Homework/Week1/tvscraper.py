@@ -26,50 +26,48 @@ def extract_tvseries(dom):
     - Runtime (only a number!)
     '''
 
-    # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RANKING TV-SERIES
-    # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
-    # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
-
-    # initialise
+    # initialise master list
     tvseries = []
-    test = ""
 
     # loop over all entries on the webpage
     for element in dom.by_tag("td.title"):
         series = []
 
         # get title and ranking and push to series list
-        title = element.by_tag("a")[0].content
+        title = element.by_tag("a")[0].content.encode('ascii', 'ignore')
         series.append(title)
-        series.append(element.by_tag("span.value")[0].content)
+        series.append(element.by_tag("span.value")[0].content.encode('ascii', 'ignore'))
 
         # loop over genres to push all to series list
         genres = ""
-        i = 0
         for el in element.by_tag("span.genre"):
-            genre = el.by_tag("a")[i].content
-            genres += genre
-            i += 1
+            for a in el.by_tag("a"):
+                genre = a.content.encode('ascii', 'ignore')
+                if genres == "":
+                    genres += genre
+                else:
+                    genres += ", " + genre
         series.append(genres)
 
         # loop over actors to push all to series list
         actors = ""
-        j = 0
         for el in element.by_tag("span.credit"):
-            actor = el.by_tag("a")[j].content
-            actors += actor
-            j += 1
+            for a in el.by_tag("a"):
+                actor = a.content.encode('ascii', 'ignore')
+                if actors == "":
+                    actors += actor
+                else:
+                    actors += ", " + actor
         series.append(actors)
 
         # get runtime and extract the digits
-        runtime = element.by_tag("span.runtime")[0].content
+        runtime = element.by_tag("span.runtime")[0].content.encode('ascii', 'ignore')
         time = int(''.join(el for el in runtime if el.isdigit())) # source: http://stackoverflow.com/questions/10365225/extract-digits-in-a-simple-way-from-a-python-string
         series.append(time)
 
+        # push all info of each series in master list: tvseries
         tvseries.append(series)
 
-    print tvseries
     return tvseries
 
 def save_csv(f, tvseries):
@@ -79,10 +77,9 @@ def save_csv(f, tvseries):
     writer = csv.writer(f)
     writer.writerow(['Title', 'Ranking', 'Genre', 'Actors', 'Runtime'])
 
-    for i in range(50):
+    # write each series list per row
+    for i in range(len(tvseries)):
         writer.writerow(tvseries[i])
-
-    # ADD SOME CODE OF YOURSELF HERE TO WRITE THE TV-SERIES TO DISK
 
 if __name__ == '__main__':
     # Download the HTML file
