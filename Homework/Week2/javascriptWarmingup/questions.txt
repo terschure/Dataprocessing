@@ -1,0 +1,25 @@
+Explain the difference between the == operator and the === operator.
+    The == operator compares the variables and checks if they are the same without
+    checking is the type of these variables is the same.
+    The === operator does check for this.
+
+Explain what a closure is. (Note that JavaScript programs use closures very often.)
+    Closure is the ability to reference a specific instance of local variables in
+    an enclosing function. The declaration of the inner function 'freezes' the code and
+    wraps it in the function value that is returned. If this is stored in a variable,
+    this variable can be used as the function, unfreezing the corresponding code.
+
+Explain what higher order functions are.
+    They are functions that operate on other functions. For example, functions that
+    change other functions or even create new functions. Just like normal functions
+    they declutter your code as they allow for an increased level of abstraction:
+    instead of writing several lines of code it allows you to use the relevant word
+    used to describe the function.
+
+Explain what a query selector is and give an example line of JavaScript that uses
+a query selector.
+    This is a method that takes a selector string and - in the case of 'querySelectorAll'
+    returns an array-like object that contains all matching elements (not unlike
+    the getElementByTag selectors from the python pattern library except that it
+    is not live). The 'querySelector' method (without the 'All') only returns the
+    first matching element.
