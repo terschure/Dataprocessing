@@ -1,3 +1,7 @@
+#
+# By: Anneke ter Schure, 6084087
+#
+
 # imports
 import csv
 
@@ -5,22 +9,22 @@ import csv
 datafile = open('KNMI_20150101.csv', 'r')
 reader = csv.reader(datafile)
 
-ndata = []
+# open and make headers in new datafile
+newfile = open('transformeddata.csv', 'w')
+writer = csv.writer(newfile)
+headers = ['YYYY/MM/DD', 'Max Temperature']
+writer.writerow(headers)
+
+# loop through readfile and copy modify only the dates and temperatures
 for row in reader:
-    if (row[0] != '# '):
-        nrow = []
-        date = row[1:2]
-        nrow.append(date)
-        # print date
-        temp = row[2:3]
-        # print temp
-        nrow.append(temp)
-    ndata.append(nrow)
-
-print ndata
-
-# open and write in new datafile
-#newfile = open('transformeddata.csv', 'w')
-#writer = csv.writer(csvfile, delimiter=' ',
-#                    quotechar='|', quoting=csv.QUOTE_MINIMAL)
-#spamwriter.writerow(row)
+    if (row[0] == '260'):
+        # modify date to insert slashes
+        date = row[1:2][0]
+        sdate = ''
+        for char in date:
+            if len(sdate) == 4 or len(sdate) == 7:
+                sdate += '/'
+            sdate += char
+        # get temperature
+        temp = row[2:3][0]
+        writer.writerow([sdate, temp])
