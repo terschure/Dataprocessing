@@ -34,6 +34,6 @@ for row in reader:
         data.append(arow)
 
 # make outputfile
-with open('transformeddata.txt', 'w') as outfile:
+with open('JSONdata.txt', 'w') as outfile:
      json.dump(data, outfile, sort_keys = True, indent = 4,
      ensure_ascii=False)
