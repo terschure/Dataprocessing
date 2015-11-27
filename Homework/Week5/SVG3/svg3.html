@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>SVG Map</title>
-    <link rel="stylesheet" type="text/css" href="svg3.css"/>
+    <title>Number of threatened mammals per country</title>
+    <link rel="stylesheet" type="text/css" href="css/svg3.css"/>
 
     <!-- Link to d3 library or change path to local copy -->
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <!-- This is your script file, write your functions in main.js -->
-    <script src="main3.js"></script>
+    <h1 id=header> Number of threatened mammals in Europe per country </h1>
   </head>
-
   <body>
+    <div class=body>
     <!-- SVG from Wikimedia, with adjusted viewbox to zoom in on Europe-->
     <?xml version="1.0" encoding="UTF-8"?>
     <svg xmlns="http://www.w3.org/2000/svg" height="442.84" id="svg2985" version="1.1" viewBox="1050 160 561.9049 317.40653" width="863.21002">
-      <title>World Map</title>
+      <title>Europe</title>
       <defs id="defs2987"/>
       <style id="style_css_sheet" type="text/css">
       </style>
@@ -2719,10 +2718,10 @@
           </g>
           <circle class="circlexx ws" cx="2694.5093" cy="877.04901" id="ws." r="6.0130301"/>
         </g>
-        <g id="lu">
+        <g id="lux">
           <title>Luxembourg</title>
-          <path class="landxx lu eu" d="M 1318.7454,329.5801 C 1318.7354,329.3621 1319.3047,329.70637 1318.7454,329.5594 1319.2296,328.29204 1319.3373,327.76939 1320.3163,327.45039 1321.4369,327.08525 1321.017,328.13058 1321.395,328.71258 1321.901,329.49258 1322.959,329.75058 1323.53,330.48158 1324.149,331.27458 1323.0304,332.47503 1323.1404,333.39103 1322.4418,333.0488 1319.6687,333.01938 1318.7299,332.72521 1320.0054,331.84421 1319.1624,331.1033 1318.7799,330.1503" id="lu-"/>
-          <circle class="circlexx lu eu" cx="1320.9082" cy="331.7099" id="lu." r="6.0130301"/>
+          <path class="landxx lu eu" d="M 1318.7454,329.5801 C 1318.7354,329.3621 1319.3047,329.70637 1318.7454,329.5594 1319.2296,328.29204 1319.3373,327.76939 1320.3163,327.45039 1321.4369,327.08525 1321.017,328.13058 1321.395,328.71258 1321.901,329.49258 1322.959,329.75058 1323.53,330.48158 1324.149,331.27458 1323.0304,332.47503 1323.1404,333.39103 1322.4418,333.0488 1319.6687,333.01938 1318.7299,332.72521 1320.0054,331.84421 1319.1624,331.1033 1318.7799,330.1503" id="lu"/>
+          <circle class="circlexx eu" cx="1320.9082" cy="331.7099" id="lu." r="6.0130301"/>
         </g>
         <g id="km">
           <title>Comoros</title>
@@ -2935,10 +2934,10 @@
           <path class="landxx coastxx aw" d="M 739.77629,651.52555 C 739.65629,651.28555 739.53629,651.04655 739.41629,650.80555 740.21129,650.49255 740.54529,651.64255 740.64529,652.17355 740.33029,651.99155 740.04029,651.77555 739.77629,651.52555" id="aw-"/>
           <circle class="circlexx aw" cx="737.10852" cy="647.10742" id="aw." r="6.0130301"/>
         </g>
-        <g id="li">
+        <g id="lie">
           <title>Liechtenstein</title>
-          <path class="landxx li" d="M 1343.3563,353.37355 C 1343.3793,352.74555 1343.5223,352.14555 1343.7863,351.57455 1344.2463,352.21955 1344.7263,353.66655 1343.3563,353.37355" id="li-"/>
-          <circle class="circlexx li" cx="1343.177" cy="352.9209" id="li." r="6.0130301"/>
+          <path class="landxx li eu" d="M 1343.3563,353.37355 C 1343.3793,352.74555 1343.5223,352.14555 1343.7863,351.57455 1344.2463,352.21955 1344.7263,353.66655 1343.3563,353.37355" id="li"/>
+          <circle class="circlexx eu" cx="1343.177" cy="352.9209" id="li." r="6.0130301"/>
         </g>
         <g id="vg">
           <title>Virgin Islands, British</title>
@@ -3039,5 +3038,309 @@
           <circle class="circlexx tk" cx="2708.5076" cy="840.57922" id="tk." r="6.0130301"/>
         </g>
       </svg>
+      </div>
+      <table id=table>
+          <tr>
+            <td># Threatened mammal species</td>
+            <td># Countries</td>
+          </tr>
+          <tr style="background-color:#1a9850; color:white;">
+            <td>0</td>
+            <td>2</td>
+          </tr>
+          <tr style="background-color:#a6d96a;">
+            <td>1</td>
+            <td>5</td>
+          </tr>
+          <tr style="background-color:#ffeda0;">
+            <td>2</td>
+            <td>7</td>
+          </tr>
+          <tr style="background-color:#fed976;">
+            <td>3 - 4</td>
+            <td>9</td>
+          </tr>
+          <tr style="background-color:#feb24c;">
+            <td>5 - 6</td>
+            <td>11</td>
+          </tr>
+          <tr style="background-color:#fd8d3c;">
+            <td>7 - 8</td>
+            <td>9</td>
+          </tr>
+          <tr style="background-color:#fc4e2a;">
+            <td>9 - 10</td>
+            <td>5</td>
+          </tr>
+          <tr style="background-color:#e31a1c; color:white;">
+            <td>11</td>
+            <td>2</td>
+          </tr>
+          <tr style="background-color:#bd0026; color:white;">
+            <td>16 - 17</td>
+            <td>3</td>
+          </tr>
+          <tr style="background-color:#800026; color:white;">
+            <td>32</td>
+            <td>1</td>
+          </tr>
+      </table>
+      <br>
+      <div id=text>
+          <p>I chose a green to red colour scheme from colorbrewer2.org as these colours have an inherent meaning and are therefore intuitive for the viewer.
+          We are inclined to interpret red as bad and green as something good, so I try to use this in my map. One of the reasons why I chose a diverging
+          colour series is that the difference in hues are more easily distuigishable than in a sequential map. Another reason is that the data used for
+          this map actually means one of two things: it is good when there are no mammals threatened in a country, which is indicated by the most extreme
+          green colour. However as soon as there are mammals threatened this is a bad thing. </p>
+          <p>The different categories where chosen based on this reasoning. Countries with no threatened animals make up the dark green category, countries
+          with just one threatened mammal the light green category.</p>
+          <p>The bounds for the rest of the categories where chosen based on the frequencies: the gross of the countries have 3 to 12 threatened mammals, then
+          there is a gap until 3 countries have 17 or 18 threatened mammals and one country has 31. Because of this, I've decided to use the most extreme red
+          colour for the country with 32 threatened mammals, the slightly lighter for those with 17 or 18, and divide the countries with 2 to 12 threatened
+          mammals over 6 categories in order to be able to also see small differences in the number of threatened mammals in Europe.
+          Grey areas show countries for which there was no data.</p>
+
+      </div>
+      <div class=body>
+      <textarea id="rawdata">
+          [
+              [
+                  "al",
+                  "3"
+              ],
+              [
+                  "al",
+                  "2"
+              ],
+              [
+                  "am",
+                  "9"
+              ],
+              [
+                  "at",
+                  "3"
+              ],
+              [
+                  "az",
+                  "7"
+              ],
+              [
+                  "by",
+                  "4"
+              ],
+              [
+                  "be",
+                  "2"
+              ],
+              [
+                  "ba",
+                  "4"
+              ],
+              [
+                  "bg",
+                  "7"
+              ],
+              [
+                  "bg",
+                  ".."
+              ],
+              [
+                  "hr",
+                  "8"
+              ],
+              [
+                  "cy",
+                  "5"
+              ],
+              [
+                  "cz",
+                  "2"
+              ],
+              [
+                  "dk",
+                  "2"
+              ],
+              [
+                  "ee",
+                  "1"
+              ],
+              [
+                  "fo",
+                  "4"
+              ],
+              [
+                  "fi",
+                  "1"
+              ],
+              [
+                  "fr",
+                  "8"
+              ],
+              [
+                  "ge",
+                  "10"
+              ],
+              [
+                  "de",
+                  "5"
+              ],
+              [
+                  "gr",
+                  "10"
+              ],
+              [
+                  "gl",
+                  "7"
+              ],
+              [
+                  "hu",
+                  "2"
+              ],
+              [
+                  "is",
+                  "6"
+              ],
+              [
+                  "ie",
+                  "5"
+              ],
+              [
+                  "ie",
+                  "1"
+              ],
+              [
+                  "it",
+                  "7"
+              ],
+              [
+                  "kz",
+                  "16"
+              ],
+              [
+                  "kz",
+                  ".."
+              ],
+              [
+                  "kg",
+                  "6"
+              ],
+              [
+                  "lv",
+                  "1"
+              ],
+              [
+                  "li",
+                  "0"
+              ],
+              [
+                  "lt",
+                  "3"
+              ],
+              [
+                  "lu",
+                  "0"
+              ],
+              [
+                  "mk",
+                  "5"
+              ],
+              [
+                  "md",
+                  "4"
+              ],
+              [
+                  "mc",
+                  "2"
+              ],
+              [
+                  "me",
+                  "6"
+              ],
+              [
+                  "nl",
+                  "3"
+              ],
+              [
+                  "no",
+                  "7"
+              ],
+              [
+                  "pl",
+                  "5"
+              ],
+              [
+                  "pt",
+                  "11"
+              ],
+              [
+                  "pt",
+                  "7"
+              ],
+              [
+                  "ru",
+                  "31"
+              ],
+              [
+                  "sm",
+                  ".."
+              ],
+              [
+                  "rs",
+                  "6"
+              ],
+              [
+                  "sk",
+                  "3"
+              ],
+              [
+                  "si",
+                  "5"
+              ],
+              [
+                  "es",
+                  "16"
+              ],
+              [
+                  "se",
+                  "1"
+              ],
+              [
+                  "ch",
+                  "2"
+              ],
+              [
+                  "tj",
+                  "8"
+              ],
+              [
+                  "tr",
+                  "17"
+              ],
+              [
+                  "tm",
+                  "9"
+              ],
+              [
+                  "ua",
+                  "11"
+              ],
+              [
+                  "gb",
+                  "5"
+              ],
+              [
+                  "uz",
+                  "10"
+              ]
+          ]
+      </textarea>
+      </div>
+      <br>
+      <div id=footer>
+          This map was created with data from worldbank.org
+      </div>
+      <br>
+      <!-- This is your script file, write your functions in main.js -->
+      <script src="main3.js"></script>
   </body>
 </html>

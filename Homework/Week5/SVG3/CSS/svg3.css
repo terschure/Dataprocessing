@@ -1,18 +1,58 @@
+#header {
+    background-color: #e0e0e0;
+    text-align: center;
+    font-size: 30px;
+    font-family: Trebuchet MS;
+    height: 40px;
+}
+
+.body {
+    text-align: center;
+    position: relative;
+    font-family: Trebuchet MS;
+}
+
+#table {
+    text-align: right;
+    position: relative;
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    /*color: white;*/
+    font-family: Trebuchet MS;
+}
+
+#text {
+    background-color: #e0e0e0;
+    text-align: left;
+    position: relative;
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Trebuchet MS;
+}
+
+#footer {
+    background-color: #e0e0e0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    max-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Trebuchet MS;
+
+}
+
  /* Europe color */
 .eu, .eu *, #ch, #by, #ua, #md-, #xp-, #ba, #rs-, #me-, #xk-, #al, #mk, #path4066, #path6794, #path2922
 {
-    fill:#b3b3b3;
+    fill:#e0e0e0;
     stroke:#ffffff;
     stroke-width:0.5;
     fill-rule:evenodd;
-    z-index:1;
 }
 
-/* country color Netherlands and Greece */
-#path6484, #path6492
-{
-    fill:#7d738c;
-}
 
 /*
  * Circles around small countries
