@@ -1,166 +1,148 @@
 //--------------------------------
 // by: Anneke ter Schure, 6084087
 // using a matrix for a datastructure
+//
+// make localhost server: python -m SimpleHTTPServer
+// use url: http://localhost:8000/index.html
 //--------------------------------
 
+// globals
+var data;
+
+// make "canvas" ---------------------------------------------------------------
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// make x-axis -----------------------------------------------------------------
+var x = d3.time.scale()
+    .range([0, width]);
+
+var x_axis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+// make y-axis -----------------------------------------------------------------
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var y_axis = d3.svg.axis()
+    .scale(y)
+    .orient("left");
+
+// prepare SVG line ------------------------------------------------------------
+var line = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.maxtemp); });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+
 // get data --------------------------------------------------------------------
-var datapoints = [];
-var point = [];
-var data = document.getElementById("rawdata").innerHTML;
-datapoints = JSON.parse(data);
+// source: https://github.com/mbostock/d3/wiki/Requests#d3_json
+var parsedDate = d3.time.format("%Y/%m/%d").parse;
+    bisectDate = d3.bisector(function(d) { return d.date; }).left;
 
-// make canvas -----------------------------------------------------------------
-var canvas = document.getElementById('MyCanvas');
-var ctx = canvas.getContext('2d');
-var width = canvas.width;
-var height = canvas.height;
-var padding = 60;
-var maxtemp = 400;
-var maxdays = datapoints.length;
+d3.json("data/temp.json", function(error, json) {
+    if (error) return console.warn(error);
 
-// make line graph -------------------------------------------------------------
+    table = {};
+    data = json;
+    data.forEach(function(d) {
+        d.date = parsedDate(d.date);
+        d.maxtemp = +(d.maxtemp/10);
+        table[d.date] = d.maxtemp;
+    });
+    console.log(table)
 
-// transformation fuction taking screen range and image domain
-function createTransform(domain, range){
-	var alpha = (range[1] - range[0]) / (domain[1] - domain [0]);
-    var beta = range[0] - (alpha * domain[0]);
-	return function(x){
-		return alpha * x + beta;
-	};
-};
+    // visualise data
+    x.domain(d3.extent(data, function(d) { return d.date; }));
+    y.domain(d3.extent(data, function(d) { return d.maxtemp; }));
 
-// x and y axes transformation functions; take care that y-axis is reversed
-var dateTransform = createTransform([new Date(datapoints[0][0]).getTime(), new Date(datapoints[365][0]).getTime()], [0, 365]);
-var xTransform = createTransform([0, 365], [padding, width-padding]);
-var yTransform = createTransform([0, maxtemp], [height-padding, padding]);
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(x_axis);
 
-var reverse_xTransform = createTransform([padding, width-padding], [0, 365]);
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(y_axis)
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Max temperature in '&deg' C");
 
-// draw line graph; make starting point and iterate over the datapoints
-ctx.beginPath();
-ctx.moveTo(xTransform(dateTransform(new Date(datapoints[0][0]))), yTransform(datapoints[0][1]));
-ctx.strokeStyle="#800000";
-for (var i = 1; i < datapoints.length; i++){
-    ctx.lineTo(xTransform(dateTransform(new Date(datapoints[i][0]))), yTransform(datapoints[i][1]));
-};
-ctx.stroke();
+    svg.append("path")
+        .datum(data)
+        .attr("class", "line")
+        .attr("d", line);
 
-// make axes--------------------------------------------------------------------
+    // make interaction tooltip and crosshair
+    var focus = svg.append("g").style("display", "none");
 
-// y-axis
-ctx.beginPath();
-ctx.moveTo(xTransform(dateTransform(new Date(datapoints[0][0]))), padding);
-ctx.strokeStyle="#000000";
-ctx.lineTo(xTransform(dateTransform(new Date(datapoints[0][0]))), height - padding);
-ctx.stroke();
+    // initiate cross hair
+    focus.append("line")
+        .attr("id", "focusLineX")
+        .attr("class", "focusLine");
 
-// y-axis labels
-var nlabels = 8;
-for (var i = 0; i < nlabels; i++){
-    ctx.textAlign = "center";
-    ctx.font = "16px serif";
-    ctx.fillText(String(i * maxtemp/10 / nlabels), padding / 1.3, yTransform(i * maxtemp / nlabels));
-};
+    focus.append("line")
+        .attr("id", "focusLineY")
+        .attr("class", "focusLine");
 
-// x-axis on temp = 000
-ctx.beginPath();
-ctx.moveTo(xTransform(dateTransform(new Date(datapoints[0][0]))), yTransform(0));
-ctx.strokeStyle="#000000";
-ctx.lineTo(xTransform(dateTransform(new Date(datapoints[365][0]))), yTransform(0));
-ctx.stroke();
+    focus.append("circle")
+        .attr("class", "y")
+        .style("fill", "none")
+        .style("stroke", "blue")
+        .attr("r", 4);
 
-// x-axis labels
-var currentmonth = "";
-for (var i = 0; i < datapoints.length - 1; i++){
-    var date = new Date(datapoints[i][0]);
-    var month = new Array();
-        month = ["Jan", "Feb", "March", "Apr", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
-    var monthname = month[date.getMonth()];
 
-    // put each new month name on the canvas at the appropriate spot
-    if (monthname != currentmonth){
-        // label
-        ctx.textAlign = "left";
-        ctx.font = "16px serif";
-        ctx.fillStyle = '#000000';
-        ctx.fillText(String(monthname), xTransform(i), height - padding / 1.3);
-        currentmonth = monthname;
+    // make rectangle for interaction on mousemove event
+    svg.append("g").append("rect")
+        .attr("class", "overlay")
+        .attr("width", width)
+        .attr("height", height)
+        .on('mouseover', function() {  })
+        .on('mouseout', function() { focus.style('display', 'none'); })
+        .on("mousemove", function () {
+            focus.style('display', null);
+            var mouse_x = d3.mouse(this)[0];
+            var mouse_y = d3.mouse(this)[1];
+            console.log(mouse_x, mouse_x);
 
-        // tick
-        ctx.beginPath();
-        ctx.moveTo(xTransform(i), yTransform(0));
-        ctx.strokeStyle="#000000";
-        ctx.lineTo(xTransform(i), yTransform(0) + padding/6);
-        ctx.stroke();
-    };
-};
+            var x0 = x.invert(mouse_x)
 
-// axes titles
-ctx.textAlign = "center";
-ctx.font = "16px serif";
-ctx.fillStyle = '#000000';
-ctx.fillText("2014", width / 2, height - padding * 1.3);
+            // look for nearest datapoint
+            i = bisectDate(data, x0, 1),
+            d0 = data[i - 1],
+            d1 = data[i],
+            d = x0 - d0.date > d1.date - x0 ? d1 : d0;
 
-ctx.save();
-ctx.translate(width - 1, 0);
-ctx.rotate(270 * (Math.PI / 180));
-ctx.font = "16px serif";
-ctx.fillText("Max Temperature in C", -height / 2, -width + padding / 3);
-ctx.restore();
+            console.log("d: ", d);
+            console.log("d.date ", d.date);
+            console.log("d.maxtemp ", d.maxtemp);
+            console.log("y : ", y(d.maxtemp))
+            // console.log("Date: ", x0);
+            // console.log(typeof x0);
+            // console.log(table[x0]);
+            // console.log("Temp: ", table["Sat May 17 2014 00:00:00 GMT+0200 (W. Europe Summer Time)"]);
+            // focus.select("circle.y")
+            //     .attr("transform",
+            //         "translate(" + x(d.date) + "," +
+            //                        y(d.maxtemp) + ")");
 
-// make interaction canvas ------------------------------------------------------
-var canvas2 = document.getElementById('GridCanvas');
-var ctx2 = canvas2.getContext('2d');
-var width2 = canvas2.width;
-var height2 = canvas2.height;
-ctx2.save();
-
-// cross-hair and tooltip ------------------------------------------------------
-var tooltip = document.getElementById('tooltip');
-mousemove = false;
-canvas2.addEventListener('mousemove', function(event){
-    x = event.clientX;
-
-    if (x > width - padding){
-        x = width - padding;
-    }
-    else if (x < padding) {
-        x = padding
-    }
-    else {
-        ctx2.clearRect(0,0,width2,height2);
-        tooltip.style.visibility = "hidden";
-
-        // make vertical cross-hair
-        ctx2.beginPath();
-        ctx2.moveTo(x, 0);
-        ctx2.strokeStyle="#000000";
-        ctx2.lineTo(x, height2);
-        ctx2.stroke();
-
-        index = parseInt(reverse_xTransform(x));
-        // make horizontal cross-hair
-        ctx2.beginPath();
-        ctx2.moveTo(0, yTransform(datapoints[index][1]));
-        ctx2.strokeStyle="#000000";
-        ctx2.lineTo(width, yTransform(datapoints[index][1]));
-        ctx2.stroke();
-
-        // get tooltip after delay of 500 milliseconds
-        setTimeout(updateTooltip, 500);
-    };
+            // create crosshair that sticks to y-coordinate of the line
+            focus.select("#focusLineX")
+                .attr("x1", mouse_x).attr("y1", 0)
+                .attr("x2", mouse_x).attr("y2", height);
+            // focus.select("#focusLineY")
+            //     .attr("x1", 0).attr("y1", y(x.invert(mouse_x)))
+            //     .attr("x2", width).attr("y2", y(x.invert(mouse_x)));
+        });
 });
-
-function updateTooltip(){
-    tooltip.style.visibility = "visible";
-    // update tooltip data
-    document.getElementById('data').innerHTML = "Date: " + datapoints[index][0] + "<br>" +
-                                                "Max Temp: " + datapoints[index][1]/10 + "&deg C";
-
-    // update tooltip position
-    tx = x + 5;
-    ty = yTransform(datapoints[index][1]) + 5;
-    tooltip.style.left = tx + 'px';
-    tooltip.style.top = ty + 'px';
-    mousemove = false;
-};

@@ -7,33 +7,37 @@ import csv
 import json
 
 # open and read datafile
+fieldnames = ["location", "date", "maxtemp"]
 datafile = open('KNMI_20150101.csv', 'r')
-reader = csv.reader(datafile)
+reader = csv.DictReader(datafile, fieldnames)
 
-# initialise data list
+# open jsonfile
+jsonfile = open('temp.json', 'w')
+
+# # initialise data list
 data = []
 
 # loop through readfile and copy modify only the dates and temperatures
-for row in reader:
-    if (row[0] == '260'):
-        # initialise row list
-        arow = []
+for each in reader:
+    # initialise row list
+    row = {}
 
-        # modify date to insert slashes
-        date = row[1:2][0]
-        sdate = ''
-        for char in date:
-            if len(sdate) == 4 or len(sdate) == 7:
-                sdate += '/'
-            sdate += char
-        arow.append(sdate)
+    # modify date to insert slashes
+    date = each['date']
+    sdate = ''
+    for char in date:
+        if len(sdate) == 4 or len(sdate) == 7:
+            sdate += '/'
+        sdate += char
 
-        # get temperature
-        temp = row[2:3][0]
-        arow.append(temp)
-        data.append(arow)
+    # get temperature
+    temp = each['maxtemp']
+
+    row['date'] = sdate
+    row['maxtemp'] = temp
+    data.append(row)
 
 # make outputfile
-with open('tempdata.json', 'w') as outfile:
+with open('temp.json', 'w') as outfile:
      json.dump(data, outfile, sort_keys = True, indent = 4,
      ensure_ascii=False)

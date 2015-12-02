@@ -6,26 +6,13 @@
 	<head>
 		<title>Weather Data</title>
 		<link rel="stylesheet" type="text/css" href="styles.css">
-        <script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	</head>
 	<body>
+        <script src="d3/d3.js" charset="utf-8"></script>
         <div id="wrapper">
 			<div id="header">
 				<h1>Maximum temperature in De Bilt(NL), 2014</h1>
 			</div>
-            <div>
-                <canvas id="MyCanvas" width="1000" height="450" style="position: absolute; left: 0; top: 0; z-index: 0;"></canvas>
-                <canvas id="GridCanvas" width="1000" height="450" style="position: absolute; left: 0; top: 0; z-index: 1;"></canvas>
-            </div>
-            <div id="tooltip">
-                <span id="data" style="z-index: 2;">Tooltip</span>
-            </div>
-            <div>
-                <!-- data: date, maximum temperature in 0.1 degrees celsius-->
-                <textarea id="rawdata">
-
-                </textarea>
-            </div>
         <script src="scripts.js"></script>
 	</body>
 </html>
