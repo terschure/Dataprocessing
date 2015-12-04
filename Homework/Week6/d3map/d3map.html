@@ -1,0 +1,33 @@
+<!-- by: Anneke ter Schure, 6084087 -->
+<!-- needs downloading and installation of d3, topojson and a datamap file -->
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>World Map</title>
+		<link rel="stylesheet" type="text/css" href="d3map.css">
+	</head>
+	<body>
+        <script src="d3/d3.js" charset="utf-8"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+        <script src="/Datamap.js"></script>
+        <div id="wrapper">
+			<div id="header">
+				<h3>World Map showing the population growth rate (annual %, 2014)</h3>
+			</div>
+            <div id="container" style="position: relative; width: 1000px; height: 600px;"></div>
+            <script src="/d3map.js"></script>
+            <div id=footer>
+                <p>The data used in this map come from <a href="http://data.worldbank.org/">The World Bank<a> </p>
+            </div>
+            <div>
+                <p>Design choices</p>
+                <p>I've experimented with several options regarding the interactivity of this map. I'll try to briefly explain here why I chose to make use of highlights for the countries and a pop-up tooltip with the data. The colours of the map show an overview of the data that is represented here. The interactive elements add the layer of detail. Or as Ben Scheiderman says: "Overview first, zoom and filter and details on demand".</p>
+                <p>When hovering over different countries you can see that the fill colour changes to steelblue and a pink border appears. This allows the viewer to instantly see which country is selected and therefore to which country the data belongs. I've also tried it without this visual selection, but with the pop-up alone it is unclear (at least to me) where the data belongs to eventhough you see where your mouse is hovering and the name of the country. The visual selection adds a great deal when it comes to grabbing attention and recalling mental associations.</p>
+                <p>As previously stated, another form of interactivity that I added is a pop-up tooltip that shows the name of the country and it's particular population growth rate; providing the viewer with the details they ask for by hovering.</p>
+                <p>This map allows you to see a general overview of the worldwide population growth rates of 2014. A sequential colour scheme is chosen for it's easy interpretation: light colours represent a low growth rate, darker colours a relatively high growth rate. Due to the clear borders between countries it is easy for the viewer to navigate the map. If the viewer wants more detail than the somewhat 'coarse' colour map, he/she can simply move the mouse to the country of interest and get the information.</p>
+            </div>
+        </div>
+	</body>
+</html>

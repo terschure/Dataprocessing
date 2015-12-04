@@ -1,0 +1,74 @@
+/**
+ * styles.css
+ * by: Anneke ter Schure, 6084087
+ * Global CSS.
+ */
+
+ #wrapper {
+     margin: inherit;
+     align-content: left;
+ }
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: darkred;
+}
+
+.overlay {
+    fill: none;
+    stroke: none;
+    pointer-events: all;
+}
+
+.focusLine {
+    fill: none;
+    stroke: gray;
+    stroke-width: 0.5px;
+}
+
+.focusCircle {
+    fill: none;
+    stroke: #000;
+}
+
+.tooltip {
+    stroke:#FFF;
+    stroke-width:3.6;
+    opacity:0.7;
+}
+
+body {
+    font:12px serif;
+    width:100%;
+    height:100%;
+    margin:1%;
+}
+
+#header {
+    background-color: white;
+    color: darkred;
+    text-align: left;
+    font-size: 30px;
+    font-family: Trebuchet MS;
+    min-width: 80%;
+    height: 50px;
+}
+
+#footer {
+    clear: both;
+    background-color:white;
+    position: bottom;
+    text-align: left;
+    font-size: 12px;
+    font-family: Trebuchet MS;
+    bottom: 0;
+    min-width: 80%;
+    height: 40px;
+}

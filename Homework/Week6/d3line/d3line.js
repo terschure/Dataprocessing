@@ -51,18 +51,15 @@ var parsedDate = d3.time.format("%Y/%m/%d").parse;
 d3.json("data/temp.json", function(error, json) {
     if (error) return console.warn(error);
 
-    table = {};
     data = json;
     data.forEach(function(d) {
         d.date = parsedDate(d.date);
         d.maxtemp = +(d.maxtemp/10);
-        table[d.date] = d.maxtemp;
     });
-    console.log(table)
 
-    // visualise data
+    // visualise data, making sure the y-axis starts at zero
     x.domain(d3.extent(data, function(d) { return d.date; }));
-    y.domain(d3.extent(data, function(d) { return d.maxtemp; }));
+    y.domain([0, d3.max(data, function(d) { return d.maxtemp; })]);
 
     svg.append("g")
         .attr("class", "x axis")
@@ -77,7 +74,7 @@ d3.json("data/temp.json", function(error, json) {
         .attr("y", 6)
         .attr("dy", ".71em")
         .style("text-anchor", "end")
-        .text("Max temperature in '&deg' C");
+        .text("Max temperature in degrees Celsius");
 
     svg.append("path")
         .datum(data)
@@ -97,11 +94,30 @@ d3.json("data/temp.json", function(error, json) {
         .attr("class", "focusLine");
 
     focus.append("circle")
-        .attr("class", "y")
-        .style("fill", "none")
-        .style("stroke", "blue")
-        .attr("r", 4);
+        .attr("id", "focusCircleY")
+        .attr("class", "focusCircle")
+        .attr("r", 5);
 
+    // initiate tooltip; x = date, y = maxtemp
+    focus.append("text")
+        .attr("id", "x")
+        .attr("class", "tooltip")
+        .attr("dx", 8)
+        .attr("dy", "1em");
+    focus.append("text")
+        .attr("id", "x2")
+        .attr("dx", 8)
+        .attr("dy", "1em");
+
+    focus.append("text")
+        .attr("id", "y")
+        .attr("class", "tooltip")
+        .attr("dx", 8)
+        .attr("dy", "-.3em");
+    focus.append("text")
+        .attr("id", "y2")
+        .attr("dx", 8)
+        .attr("dy", "-.3em");
 
     // make rectangle for interaction on mousemove event
     svg.append("g").append("rect")
@@ -114,8 +130,6 @@ d3.json("data/temp.json", function(error, json) {
             focus.style('display', null);
             var mouse_x = d3.mouse(this)[0];
             var mouse_y = d3.mouse(this)[1];
-            console.log(mouse_x, mouse_x);
-
             var x0 = x.invert(mouse_x)
 
             // look for nearest datapoint
@@ -124,25 +138,43 @@ d3.json("data/temp.json", function(error, json) {
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
 
-            console.log("d: ", d);
             console.log("d.date ", d.date);
             console.log("d.maxtemp ", d.maxtemp);
             console.log("y : ", y(d.maxtemp))
-            // console.log("Date: ", x0);
-            // console.log(typeof x0);
-            // console.log(table[x0]);
-            // console.log("Temp: ", table["Sat May 17 2014 00:00:00 GMT+0200 (W. Europe Summer Time)"]);
-            // focus.select("circle.y")
-            //     .attr("transform",
-            //         "translate(" + x(d.date) + "," +
-            //                        y(d.maxtemp) + ")");
+
+            focus.select("#focusCircleY")
+                .attr("transform",
+                    "translate(" + x(d.date) + "," + y(d.maxtemp) + ")");
 
             // create crosshair that sticks to y-coordinate of the line
             focus.select("#focusLineX")
                 .attr("x1", mouse_x).attr("y1", 0)
                 .attr("x2", mouse_x).attr("y2", height);
-            // focus.select("#focusLineY")
-            //     .attr("x1", 0).attr("y1", y(x.invert(mouse_x)))
-            //     .attr("x2", width).attr("y2", y(x.invert(mouse_x)));
+            focus.select("#focusLineY")
+                .attr("x1", 0).attr("y1", y(d.maxtemp))
+                .attr("x2", width).attr("y2", y(d.maxtemp));
+
+            // create tooltip with date and max temperature value
+            formatDate = d3.time.format("%Y/%m/%d")
+
+            focus.select("#x")
+                .attr("transform",
+                    "translate(" + x(d.date) + "," + y(d.maxtemp) + ")")
+                .text(formatDate(d.date))
+            focus.select("#x2")
+                .attr("transform",
+                    "translate(" + x(d.date) + "," + y(d.maxtemp) + ")")
+                .text(formatDate(d.date))
+
+
+            focus.select("#y")
+                .attr("transform",
+                    "translate(" + x(d.date) + "," + y(d.maxtemp) + ")")
+                .text(d.maxtemp + " degrees Celsius");
+            focus.select("#y2")
+                .attr("transform",
+                    "translate(" + x(d.date) + "," + y(d.maxtemp) + ")")
+                .text(d.maxtemp + " degrees Celsius");
+
         });
 });
