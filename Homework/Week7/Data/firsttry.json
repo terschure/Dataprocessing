@@ -1,0 +1,781 @@
+{
+    "ABW": {
+        "fossil": ".."
+    }, 
+    "ADO": {
+        "fossil": ".."
+    }, 
+    "AFG": {
+        "fossil": ".."
+    }, 
+    "AGO": {
+        "fillKey": "LOW", 
+        "fossil": "29.09317655"
+    }, 
+    "ALB": {
+        "fillKey": "VLOW", 
+        "fossil": "0"
+    }, 
+    "ARE": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "ARG": {
+        "fillKey": "HIGH", 
+        "fossil": "71.48602125"
+    }, 
+    "ARM": {
+        "fillKey": "MEDIUM", 
+        "fossil": "42.29716277"
+    }, 
+    "ASM": {
+        "fossil": ".."
+    }, 
+    "ATG": {
+        "fossil": ".."
+    }, 
+    "AUS": {
+        "fillKey": "VHIGH", 
+        "fossil": "90.36740007"
+    }, 
+    "AUT": {
+        "fillKey": "LOW", 
+        "fossil": "24.28955984"
+    }, 
+    "AZE": {
+        "fillKey": "VHIGH", 
+        "fossil": "92.07847573"
+    }, 
+    "BDI": {
+        "fossil": ".."
+    }, 
+    "BEL": {
+        "fillKey": "LOW", 
+        "fossil": "35.87056219"
+    }, 
+    "BEN": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.38650307"
+    }, 
+    "BFA": {
+        "fossil": ".."
+    }, 
+    "BGD": {
+        "fillKey": "VHIGH", 
+        "fossil": "98.41554681"
+    }, 
+    "BGR": {
+        "fillKey": "MEDIUM", 
+        "fossil": "54.64265012"
+    }, 
+    "BHR": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "BHS": {
+        "fossil": ".."
+    }, 
+    "BIH": {
+        "fillKey": "HIGH", 
+        "fossil": "70.06817213"
+    }, 
+    "BLR": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.27595052"
+    }, 
+    "BLZ": {
+        "fossil": ".."
+    }, 
+    "BMU": {
+        "fossil": ".."
+    }, 
+    "BOL": {
+        "fillKey": "HIGH", 
+        "fossil": "66.24461559"
+    }, 
+    "BRA": {
+        "fillKey": "VLOW", 
+        "fossil": "14.57439241"
+    }, 
+    "BRB": {
+        "fossil": ".."
+    }, 
+    "BRN": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.94910941"
+    }, 
+    "BTN": {
+        "fossil": ".."
+    }, 
+    "BWA": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "CAF": {
+        "fossil": ".."
+    }, 
+    "CAN": {
+        "fillKey": "LOW", 
+        "fossil": "21.78617709"
+    }, 
+    "CHE": {
+        "fillKey": "VLOW", 
+        "fossil": "1.431903875"
+    }, 
+    "CHI": {
+        "fossil": ".."
+    }, 
+    "CHL": {
+        "fillKey": "HIGH", 
+        "fossil": "63.55464438"
+    }, 
+    "CHN": {
+        "fillKey": "HIGH", 
+        "fossil": "77.78502206"
+    }, 
+    "CIV": {
+        "fillKey": "HIGH", 
+        "fossil": "73.5604333"
+    }, 
+    "CMR": {
+        "fillKey": "LOW", 
+        "fossil": "26.95969533"
+    }, 
+    "COG": {
+        "fillKey": "LOW", 
+        "fossil": "38.82265276"
+    }, 
+    "COL": {
+        "fillKey": "LOW", 
+        "fossil": "20.44852977"
+    }, 
+    "COM": {
+        "fossil": ".."
+    }, 
+    "CPV": {
+        "fossil": ".."
+    }, 
+    "CRI": {
+        "fillKey": "VLOW", 
+        "fossil": "8.157248157"
+    }, 
+    "CUB": {
+        "fillKey": "MEDIUM", 
+        "fossil": "56.96614583"
+    }, 
+    "CUW": {
+        "fossil": ".."
+    }, 
+    "CYM": {
+        "fossil": ".."
+    }, 
+    "CYP": {
+        "fillKey": "VHIGH", 
+        "fossil": "94.55162179"
+    }, 
+    "CZE": {
+        "fillKey": "MEDIUM", 
+        "fossil": "55.72188572"
+    }, 
+    "DEU": {
+        "fillKey": "MEDIUM", 
+        "fossil": "59.73486617"
+    }, 
+    "DJI": {
+        "fossil": ".."
+    }, 
+    "DMA": {
+        "fossil": ".."
+    }, 
+    "DNK": {
+        "fillKey": "MEDIUM", 
+        "fossil": "49.34097048"
+    }, 
+    "DOM": {
+        "fillKey": "VHIGH", 
+        "fossil": "89.30802782"
+    }, 
+    "DZA": {
+        "fillKey": "VHIGH", 
+        "fossil": "98.91631967"
+    }, 
+    "ECU": {
+        "fillKey": "MEDIUM", 
+        "fossil": "45.13065173"
+    }, 
+    "EGY": {
+        "fillKey": "VHIGH", 
+        "fossil": "90.96213283"
+    }, 
+    "ERI": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.44289694"
+    }, 
+    "ESP": {
+        "fillKey": "MEDIUM", 
+        "fossil": "49.20018235"
+    }, 
+    "EST": {
+        "fillKey": "VLOW", 
+        "fossil": "5.765856104"
+    }, 
+    "ETH": {
+        "fillKey": "VLOW", 
+        "fossil": "0.597014925"
+    }, 
+    "FIN": {
+        "fillKey": "LOW", 
+        "fossil": "20.78296567"
+    }, 
+    "FJI": {
+        "fossil": ".."
+    }, 
+    "FRA": {
+        "fillKey": "VLOW", 
+        "fossil": "8.544200273"
+    }, 
+    "FRO": {
+        "fossil": ".."
+    }, 
+    "FSM": {
+        "fossil": ".."
+    }, 
+    "GAB": {
+        "fillKey": "MEDIUM", 
+        "fossil": "58.26126536"
+    }, 
+    "GBR": {
+        "fillKey": "HIGH", 
+        "fossil": "68.5361251"
+    }, 
+    "GEO": {
+        "fillKey": "LOW", 
+        "fossil": "25.49767922"
+    }, 
+    "GHA": {
+        "fillKey": "VLOW", 
+        "fossil": "12.0425815"
+    }, 
+    "GIN": {
+        "fossil": ".."
+    }, 
+    "GMB": {
+        "fossil": ".."
+    }, 
+    "GNB": {
+        "fossil": ".."
+    }, 
+    "GNQ": {
+        "fossil": ".."
+    }, 
+    "GRC": {
+        "fillKey": "VHIGH", 
+        "fossil": "83.19757779"
+    }, 
+    "GRD": {
+        "fossil": ".."
+    }, 
+    "GRL": {
+        "fossil": ".."
+    }, 
+    "GTM": {
+        "fillKey": "LOW", 
+        "fossil": "33.11729707"
+    }, 
+    "GUM": {
+        "fossil": ".."
+    }, 
+    "GUY": {
+        "fossil": ".."
+    }, 
+    "HKG": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.79400026"
+    }, 
+    "HND": {
+        "fillKey": "MEDIUM", 
+        "fossil": "56.2623469"
+    }, 
+    "HRV": {
+        "fillKey": "MEDIUM", 
+        "fossil": "51.28427128"
+    }, 
+    "HTI": {
+        "fillKey": "VHIGH", 
+        "fossil": "86.08695652"
+    }, 
+    "HUN": {
+        "fillKey": "MEDIUM", 
+        "fossil": "46.35154669"
+    }, 
+    "IDN": {
+        "fillKey": "VHIGH", 
+        "fossil": "88.55509329"
+    }, 
+    "IMY": {
+        "fossil": ".."
+    }, 
+    "IND": {
+        "fillKey": "VHIGH", 
+        "fossil": "81.41062139"
+    }, 
+    "IRL": {
+        "fillKey": "HIGH", 
+        "fossil": "71.1468225"
+    }, 
+    "IRN": {
+        "fillKey": "VHIGH", 
+        "fossil": "94.2880964"
+    }, 
+    "IRQ": {
+        "fillKey": "HIGH", 
+        "fossil": "76.96097498"
+    }, 
+    "ISL": {
+        "fillKey": "VLOW", 
+        "fossil": "0.017094991"
+    }, 
+    "ISR": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.11164694"
+    }, 
+    "ITA": {
+        "fillKey": "HIGH", 
+        "fossil": "67.96480299"
+    }, 
+    "JAM": {
+        "fillKey": "VHIGH", 
+        "fossil": "91.20879121"
+    }, 
+    "JOR": {
+        "fillKey": "VHIGH", 
+        "fossil": "99.57821162"
+    }, 
+    "JPN": {
+        "fillKey": "VHIGH", 
+        "fossil": "80.48581781"
+    }, 
+    "KAZ": {
+        "fillKey": "VHIGH", 
+        "fossil": "91.62344995"
+    }, 
+    "KEN": {
+        "fillKey": "LOW", 
+        "fossil": "24.84921592"
+    }, 
+    "KGZ": {
+        "fillKey": "VLOW", 
+        "fossil": "6.520305907"
+    }, 
+    "KHM": {
+        "fillKey": "HIGH", 
+        "fossil": "62.34309623"
+    }, 
+    "KIR": {
+        "fossil": ".."
+    }, 
+    "KNA": {
+        "fossil": ".."
+    }, 
+    "KOR": {
+        "fillKey": "HIGH", 
+        "fossil": "70.15020671"
+    }, 
+    "KSV": {
+        "fillKey": "VHIGH", 
+        "fossil": "98.38465422"
+    }, 
+    "KWT": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "LAO": {
+        "fossil": ".."
+    }, 
+    "LBN": {
+        "fillKey": "VHIGH", 
+        "fossil": "93.20787805"
+    }, 
+    "LBR": {
+        "fossil": ".."
+    }, 
+    "LBY": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "LCA": {
+        "fossil": ".."
+    }, 
+    "LIE": {
+        "fossil": ".."
+    }, 
+    "LKA": {
+        "fillKey": "HIGH", 
+        "fossil": "70.75875977"
+    }, 
+    "LSO": {
+        "fossil": ".."
+    }, 
+    "LTU": {
+        "fillKey": "HIGH", 
+        "fossil": "68.86729962"
+    }, 
+    "LUX": {
+        "fillKey": "VHIGH", 
+        "fossil": "86.7780603"
+    }, 
+    "LVA": {
+        "fillKey": "LOW", 
+        "fossil": "33.36575875"
+    }, 
+    "MAC": {
+        "fossil": ".."
+    }, 
+    "MAF": {
+        "fossil": ".."
+    }, 
+    "MAR": {
+        "fillKey": "VHIGH", 
+        "fossil": "91.37003841"
+    }, 
+    "MCO": {
+        "fossil": ".."
+    }, 
+    "MDA": {
+        "fillKey": "VHIGH", 
+        "fossil": "95.3636677"
+    }, 
+    "MDG": {
+        "fossil": ".."
+    }, 
+    "MDV": {
+        "fossil": ".."
+    }, 
+    "MEX": {
+        "fillKey": "VHIGH", 
+        "fossil": "81.98269936"
+    }, 
+    "MHL": {
+        "fossil": ".."
+    }, 
+    "MKD": {
+        "fillKey": "VHIGH", 
+        "fossil": "83.32801022"
+    }, 
+    "MLI": {
+        "fossil": ".."
+    }, 
+    "MLT": {
+        "fillKey": "VHIGH", 
+        "fossil": "98.90829694"
+    }, 
+    "MMR": {
+        "fillKey": "LOW", 
+        "fossil": "27.63697354"
+    }, 
+    "MNE": {
+        "fillKey": "MEDIUM", 
+        "fossil": "48.06610408"
+    }, 
+    "MNG": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "MNP": {
+        "fossil": ".."
+    }, 
+    "MOZ": {
+        "fillKey": "VLOW", 
+        "fossil": "0.138467625"
+    }, 
+    "MRT": {
+        "fossil": ".."
+    }, 
+    "MUS": {
+        "fillKey": "HIGH", 
+        "fossil": "79.2992492"
+    }, 
+    "MWI": {
+        "fossil": ".."
+    }, 
+    "MYS": {
+        "fillKey": "VHIGH", 
+        "fossil": "92.61056251"
+    }, 
+    "NAM": {
+        "fillKey": "VLOW", 
+        "fossil": "2.191113816"
+    }, 
+    "NCL": {
+        "fossil": ".."
+    }, 
+    "NER": {
+        "fossil": ".."
+    }, 
+    "NGA": {
+        "fillKey": "VHIGH", 
+        "fossil": "80.28635129"
+    }, 
+    "NIC": {
+        "fillKey": "MEDIUM", 
+        "fossil": "57.18184073"
+    }, 
+    "NLD": {
+        "fillKey": "VHIGH", 
+        "fossil": "82.08770304"
+    }, 
+    "NOR": {
+        "fillKey": "VLOW", 
+        "fossil": "1.934279466"
+    }, 
+    "NPL": {
+        "fillKey": "VLOW", 
+        "fossil": "0.53490991"
+    }, 
+    "NZL": {
+        "fillKey": "LOW", 
+        "fossil": "28.13184332"
+    }, 
+    "OMN": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "PAK": {
+        "fillKey": "HIGH", 
+        "fossil": "64.20286086"
+    }, 
+    "PAN": {
+        "fillKey": "LOW", 
+        "fossil": "37.05554264"
+    }, 
+    "PER": {
+        "fillKey": "MEDIUM", 
+        "fossil": "44.76684457"
+    }, 
+    "PHL": {
+        "fillKey": "HIGH", 
+        "fossil": "71.53083474"
+    }, 
+    "PLW": {
+        "fossil": ".."
+    }, 
+    "PNG": {
+        "fossil": ".."
+    }, 
+    "POL": {
+        "fillKey": "VHIGH", 
+        "fossil": "89.52390375"
+    }, 
+    "PRI": {
+        "fossil": ".."
+    }, 
+    "PRK": {
+        "fillKey": "LOW", 
+        "fossil": "29.81908921"
+    }, 
+    "PRT": {
+        "fillKey": "MEDIUM", 
+        "fossil": "56.93127962"
+    }, 
+    "PRY": {
+        "fillKey": "VLOW", 
+        "fossil": "0.004980576"
+    }, 
+    "PYF": {
+        "fossil": ".."
+    }, 
+    "QAT": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "ROM": {
+        "fillKey": "MEDIUM", 
+        "fossil": "55.09579066"
+    }, 
+    "RUS": {
+        "fillKey": "HIGH", 
+        "fossil": "67.50446315"
+    }, 
+    "RWA": {
+        "fossil": ".."
+    }, 
+    "SAU": {
+        "fillKey": "HIGH", 
+        "fossil": "72.37374853"
+    }, 
+    "SDN": {
+        "fillKey": "LOW", 
+        "fossil": "29.85375159"
+    }, 
+    "SEN": {
+        "fillKey": "VHIGH", 
+        "fossil": "86.72463768"
+    }, 
+    "SGP": {
+        "fillKey": "VHIGH", 
+        "fossil": "97.30795464"
+    }, 
+    "SLB": {
+        "fossil": ".."
+    }, 
+    "SLE": {
+        "fossil": ".."
+    }, 
+    "SLV": {
+        "fillKey": "LOW", 
+        "fossil": "35.9529492"
+    }, 
+    "SMR": {
+        "fossil": ".."
+    }, 
+    "SOM": {
+        "fossil": ".."
+    }, 
+    "SRB": {
+        "fillKey": "HIGH", 
+        "fossil": "74.30814741"
+    }, 
+    "SSD": {
+        "fossil": ".."
+    }, 
+    "STP": {
+        "fossil": ".."
+    }, 
+    "SUR": {
+        "fossil": ".."
+    }, 
+    "SVK": {
+        "fillKey": "LOW", 
+        "fossil": "25.64600395"
+    }, 
+    "SVN": {
+        "fillKey": "LOW", 
+        "fossil": "36.58065762"
+    }, 
+    "SWE": {
+        "fillKey": "VLOW", 
+        "fossil": "1.463625658"
+    }, 
+    "SWZ": {
+        "fossil": ".."
+    }, 
+    "SXM": {
+        "fossil": ".."
+    }, 
+    "SYC": {
+        "fossil": ".."
+    }, 
+    "SYR": {
+        "fillKey": "VHIGH", 
+        "fossil": "89.62100808"
+    }, 
+    "TCA": {
+        "fossil": ".."
+    }, 
+    "TCD": {
+        "fossil": ".."
+    }, 
+    "TGO": {
+        "fillKey": "VLOW", 
+        "fossil": "15.31531532"
+    }, 
+    "THA": {
+        "fillKey": "VHIGH", 
+        "fossil": "91.73153444"
+    }, 
+    "TJK": {
+        "fillKey": "VLOW", 
+        "fossil": "0.435960881"
+    }, 
+    "TKM": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "TMP": {
+        "fossil": ".."
+    }, 
+    "TON": {
+        "fossil": ".."
+    }, 
+    "TTO": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "TUN": {
+        "fillKey": "VHIGH", 
+        "fossil": "96.99193773"
+    }, 
+    "TUR": {
+        "fillKey": "HIGH", 
+        "fossil": "72.71561947"
+    }, 
+    "TUV": {
+        "fossil": ".."
+    }, 
+    "TZA": {
+        "fillKey": "HIGH", 
+        "fossil": "70.85418464"
+    }, 
+    "UGA": {
+        "fossil": ".."
+    }, 
+    "UKR": {
+        "fillKey": "MEDIUM", 
+        "fossil": "48.89621552"
+    }, 
+    "URY": {
+        "fillKey": "LOW", 
+        "fossil": "38.27358491"
+    }, 
+    "USA": {
+        "fillKey": "HIGH", 
+        "fossil": "68.86466167"
+    }, 
+    "UZB": {
+        "fillKey": "HIGH", 
+        "fossil": "78.64761905"
+    }, 
+    "VCT": {
+        "fossil": ".."
+    }, 
+    "VEN": {
+        "fillKey": "LOW", 
+        "fossil": "35.17974011"
+    }, 
+    "VIR": {
+        "fossil": ".."
+    }, 
+    "VNM": {
+        "fillKey": "MEDIUM", 
+        "fossil": "56.42639098"
+    }, 
+    "VUT": {
+        "fossil": ".."
+    }, 
+    "WBG": {
+        "fossil": ".."
+    }, 
+    "WSM": {
+        "fossil": ".."
+    }, 
+    "YEM": {
+        "fillKey": "VHIGH", 
+        "fossil": "100"
+    }, 
+    "ZAF": {
+        "fillKey": "VHIGH", 
+        "fossil": "93.91768705"
+    }, 
+    "ZAR": {
+        "fillKey": "VLOW", 
+        "fossil": "0.439367311"
+    }, 
+    "ZMB": {
+        "fillKey": "VLOW", 
+        "fossil": "0.303797468"
+    }, 
+    "ZWE": {
+        "fillKey": "MEDIUM", 
+        "fossil": "40.03080986"
+    }
+}

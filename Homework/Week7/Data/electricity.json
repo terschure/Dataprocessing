@@ -1,0 +1,2115 @@
+{
+    "ABW": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "ADO": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "AFG": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "AGO": {
+        "consumption": "219.5222068",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "70.90682345",
+        "nuclear": "0",
+        "oil": "29.09317655",
+        "renewable-h": "0",
+        "totalrenewable": "70.90682345"
+    },
+    "ALB": {
+        "consumption": "2118.263507",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "100",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "100"
+    },
+    "ARE": {
+        "consumption": "10462.61498",
+        "fillKey": "VLOW",
+        "gas": "98.6197945",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "1.380205495",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "ARG": {
+        "consumption": "2954.610718",
+        "fillKey": "MEDIUM",
+        "gas": "53.87457708",
+        "hydroelectric": "21.72864605",
+        "nuclear": "4.744910073",
+        "oil": "14.88247166",
+        "renewable-h": "2.040422627",
+        "totalrenewable": "23.76906868"
+    },
+    "ARM": {
+        "consumption": "1832.229306",
+        "fillKey": "MEDIUM",
+        "gas": "42.29716277",
+        "hydroelectric": "28.89497262",
+        "nuclear": "28.7580886",
+        "oil": "0",
+        "renewable-h": "0.049776008",
+        "totalrenewable": "28.94474863"
+    },
+    "ASM": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "ATG": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "AUS": {
+        "consumption": "10398.20305",
+        "fillKey": "VLOW",
+        "gas": "19.92976648",
+        "hydroelectric": "5.635557127",
+        "nuclear": "0",
+        "oil": "1.634898186",
+        "renewable-h": "3.997042799",
+        "totalrenewable": "9.632599926"
+    },
+    "AUT": {
+        "consumption": "8507.12652",
+        "fillKey": "VHIGH",
+        "gas": "14.12440888",
+        "hydroelectric": "63.71771553",
+        "nuclear": "0",
+        "oil": "1.081120407",
+        "renewable-h": "10.82720989",
+        "totalrenewable": "74.54492543"
+    },
+    "AZE": {
+        "consumption": "2052.650965",
+        "fillKey": "VLOW",
+        "gas": "89.89037759",
+        "hydroelectric": "7.921524274",
+        "nuclear": "0",
+        "oil": "2.188098138",
+        "renewable-h": "0",
+        "totalrenewable": "7.921524274"
+    },
+    "BDI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BEL": {
+        "consumption": "7986.523662",
+        "fillKey": "LOW",
+        "gas": "28.79575389",
+        "hydroelectric": "0.436595776",
+        "nuclear": "49.27906664",
+        "oil": "0.392569311",
+        "renewable-h": "12.35186929",
+        "totalrenewable": "12.78846507"
+    },
+    "BEN": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "99.38650307",
+        "renewable-h": "0.613496933",
+        "totalrenewable": "0.613496933"
+    },
+    "BFA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BGD": {
+        "consumption": "278.5954397",
+        "fillKey": "VLOW",
+        "gas": "85.08941863",
+        "hydroelectric": "1.58445319",
+        "nuclear": "0",
+        "oil": "11.5255205",
+        "renewable-h": "0",
+        "totalrenewable": "1.58445319"
+    },
+    "BGR": {
+        "consumption": "4761.912583",
+        "fillKey": "LOW",
+        "gas": "5.058073381",
+        "hydroelectric": "6.92586788",
+        "nuclear": "33.88866227",
+        "oil": "0.47231585",
+        "renewable-h": "4.510616372",
+        "totalrenewable": "11.43648425"
+    },
+    "BHR": {
+        "consumption": "17395.32101",
+        "fillKey": "VLOW",
+        "gas": "100",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "BHS": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BIH": {
+        "consumption": "3276.025952",
+        "fillKey": "MEDIUM",
+        "gas": "0.369265729",
+        "hydroelectric": "29.93182787",
+        "nuclear": "0",
+        "oil": "0.198835393",
+        "renewable-h": "0",
+        "totalrenewable": "29.93182787"
+    },
+    "BLR": {
+        "consumption": "3697.590871",
+        "fillKey": "VLOW",
+        "gas": "96.71417903",
+        "hydroelectric": "0.227280106",
+        "nuclear": "0",
+        "oil": "2.561771486",
+        "renewable-h": "0.327932725",
+        "totalrenewable": "0.555212832"
+    },
+    "BLZ": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BMU": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BOL": {
+        "consumption": "662.5801049",
+        "fillKey": "MEDIUM",
+        "gas": "64.22138102",
+        "hydroelectric": "30.70095288",
+        "nuclear": "0",
+        "oil": "2.023234565",
+        "renewable-h": "3.054431536",
+        "totalrenewable": "33.75538441"
+    },
+    "BRA": {
+        "consumption": "2462.218873",
+        "fillKey": "VVHIGH",
+        "gas": "8.46382331",
+        "hydroelectric": "75.17924083",
+        "nuclear": "2.902968311",
+        "oil": "3.546262324",
+        "renewable-h": "7.29217386",
+        "totalrenewable": "82.47141469"
+    },
+    "BRB": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BRN": {
+        "consumption": "9092.209355",
+        "fillKey": "VLOW",
+        "gas": "99.00763359",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0.941475827",
+        "renewable-h": "0.050890585",
+        "totalrenewable": "0.050890585"
+    },
+    "BTN": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "BWA": {
+        "consumption": "1513.487764",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "CAF": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "CAN": {
+        "consumption": "15614.6092",
+        "fillKey": "VHIGH",
+        "gas": "10.64668994",
+        "hydroelectric": "59.98552822",
+        "nuclear": "14.95448799",
+        "oil": "1.100990324",
+        "renewable-h": "3.262929227",
+        "totalrenewable": "63.24845745"
+    },
+    "CHE": {
+        "consumption": "7886.094306",
+        "fillKey": "HIGH",
+        "gas": "1.354146799",
+        "hydroelectric": "56.63062455",
+        "nuclear": "37.32486319",
+        "oil": "0.077757075",
+        "renewable-h": "2.847669488",
+        "totalrenewable": "59.47829404"
+    },
+    "CHI": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "CHL": {
+        "consumption": "3810.118184",
+        "fillKey": "MEDIUM",
+        "gas": "18.42124127",
+        "hydroelectric": "28.89994409",
+        "nuclear": "0",
+        "oil": "8.808475864",
+        "renewable-h": "7.545411535",
+        "totalrenewable": "36.44535562"
+    },
+    "CHN": {
+        "consumption": "3475.008792",
+        "fillKey": "LOW",
+        "gas": "1.71895525",
+        "hydroelectric": "17.30885585",
+        "nuclear": "1.953830586",
+        "oil": "0.136154673",
+        "renewable-h": "2.732261375",
+        "totalrenewable": "19.12718369"
+    },
+    "CIV": {
+        "consumption": "239.7330268",
+        "fillKey": "MEDIUM",
+        "gas": "67.46009122",
+        "hydroelectric": "25.49885975",
+        "nuclear": "0",
+        "oil": "6.100342075",
+        "renewable-h": "0.940706956",
+        "totalrenewable": "26.4395667"
+    },
+    "CMR": {
+        "consumption": "262.3330708",
+        "fillKey": "VHIGH",
+        "gas": "7.204062202",
+        "hydroelectric": "72.02475405",
+        "nuclear": "0",
+        "oil": "19.75563313",
+        "renewable-h": "1.015550619",
+        "totalrenewable": "73.04030467"
+    },
+    "COG": {
+        "consumption": "181.7465776",
+        "fillKey": "VHIGH",
+        "gas": "38.15201192",
+        "hydroelectric": "61.17734724",
+        "nuclear": "0",
+        "oil": "0.670640835",
+        "renewable-h": "0",
+        "totalrenewable": "61.17734724"
+    },
+    "COL": {
+        "consumption": "1149.953698",
+        "fillKey": "VHIGH",
+        "gas": "14.42642411",
+        "hydroelectric": "76.33026934",
+        "nuclear": "0",
+        "oil": "0.550235013",
+        "renewable-h": "3.221200892",
+        "totalrenewable": "79.55147023"
+    },
+    "COM": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "CPV": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "CRI": {
+        "consumption": "1957.178843",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "71.0958231",
+        "nuclear": "0",
+        "oil": "8.157248157",
+        "renewable-h": "20.74692875",
+        "totalrenewable": "91.84275184"
+    },
+    "CUB": {
+        "consumption": "1367.672104",
+        "fillKey": "VLOW",
+        "gas": "11.34982639",
+        "hydroelectric": "0.602213542",
+        "nuclear": "0",
+        "oil": "45.61631944",
+        "renewable-h": "3.130425347",
+        "totalrenewable": "3.732638889"
+    },
+    "CUW": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "CYM": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "CYP": {
+        "consumption": "4055.598896",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "94.55162179",
+        "renewable-h": "5.448378206",
+        "totalrenewable": "5.448378206"
+    },
+    "CZE": {
+        "consumption": "6304.571923",
+        "fillKey": "VLOW",
+        "gas": "1.386425923",
+        "hydroelectric": "2.451578729",
+        "nuclear": "34.91858778",
+        "oil": "0.104788006",
+        "renewable-h": "6.835402225",
+        "totalrenewable": "9.286980954"
+    },
+    "DEU": {
+        "consumption": "7270.152523",
+        "fillKey": "MEDIUM",
+        "gas": "12.45304153",
+        "hydroelectric": "3.401069072",
+        "nuclear": "15.96066481",
+        "oil": "1.223929122",
+        "renewable-h": "19.53007027",
+        "totalrenewable": "22.93113934"
+    },
+    "DJI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "DMA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "DNK": {
+        "consumption": "6038.552307",
+        "fillKey": "HIGH",
+        "gas": "13.64597911",
+        "hydroelectric": "0.055325935",
+        "nuclear": "0",
+        "oil": "1.311550103",
+        "renewable-h": "48.22794285",
+        "totalrenewable": "48.28326879"
+    },
+    "DOM": {
+        "consumption": "1472.569866",
+        "fillKey": "LOW",
+        "gas": "24.7789697",
+        "hydroelectric": "10.51514794",
+        "nuclear": "0",
+        "oil": "51.57962985",
+        "renewable-h": "0.176824237",
+        "totalrenewable": "10.69197218"
+    },
+    "DZA": {
+        "consumption": "1236.130029",
+        "fillKey": "VLOW",
+        "gas": "92.42294893",
+        "hydroelectric": "1.083680332",
+        "nuclear": "0",
+        "oil": "6.493370734",
+        "renewable-h": "0",
+        "totalrenewable": "1.083680332"
+    },
+    "ECU": {
+        "consumption": "1281.559647",
+        "fillKey": "HIGH",
+        "gas": "10.22891408",
+        "hydroelectric": "53.56501948",
+        "nuclear": "0",
+        "oil": "34.90173765",
+        "renewable-h": "1.304328796",
+        "totalrenewable": "54.86934827"
+    },
+    "EGY": {
+        "consumption": "1700.449057",
+        "fillKey": "VLOW",
+        "gas": "75.77693412",
+        "hydroelectric": "8.12708379",
+        "nuclear": "0",
+        "oil": "15.18519871",
+        "renewable-h": "0.910783383",
+        "totalrenewable": "9.037867173"
+    },
+    "ERI": {
+        "consumption": "62.34371912",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "99.44289694",
+        "renewable-h": "0.557103064",
+        "totalrenewable": "0.557103064"
+    },
+    "ESP": {
+        "consumption": "5573.401182",
+        "fillKey": "MEDIUM",
+        "gas": "24.93961394",
+        "hydroelectric": "6.989474114",
+        "nuclear": "20.91228882",
+        "oil": "5.212252757",
+        "renewable-h": "22.5952739",
+        "totalrenewable": "29.58474801"
+    },
+    "EST": {
+        "consumption": "6689.367776",
+        "fillKey": "LOW",
+        "gas": "1.052895463",
+        "hydroelectric": "0.350965154",
+        "nuclear": "0",
+        "oil": "0.484666165",
+        "renewable-h": "11.99130943",
+        "totalrenewable": "12.34227459"
+    },
+    "ETH": {
+        "consumption": "57.4349761",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "98.73134328",
+        "nuclear": "0",
+        "oil": "0.597014925",
+        "renewable-h": "0.671641791",
+        "totalrenewable": "99.40298507"
+    },
+    "FIN": {
+        "consumption": "15687.19153",
+        "fillKey": "HIGH",
+        "gas": "9.554112985",
+        "hydroelectric": "23.94778335",
+        "nuclear": "32.65245245",
+        "oil": "0.443188113",
+        "renewable-h": "16.58972429",
+        "totalrenewable": "40.53750764"
+    },
+    "FJI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "FRA": {
+        "consumption": "7343.878483",
+        "fillKey": "LOW",
+        "gas": "3.899913657",
+        "hydroelectric": "10.49648103",
+        "nuclear": "76.04724373",
+        "oil": "0.775477881",
+        "renewable-h": "4.404027909",
+        "totalrenewable": "14.90050894"
+    },
+    "FRO": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "FSM": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "GAB": {
+        "consumption": "1094.522491",
+        "fillKey": "HIGH",
+        "gas": "40.46426946",
+        "hydroelectric": "41.32908512",
+        "nuclear": "0",
+        "oil": "17.7969959",
+        "renewable-h": "0.409649522",
+        "totalrenewable": "41.73873464"
+    },
+    "GBR": {
+        "consumption": "5452.030838",
+        "fillKey": "LOW",
+        "gas": "27.73123914",
+        "hydroelectric": "1.46451225",
+        "nuclear": "19.50974171",
+        "oil": "0.849056865",
+        "renewable-h": "9.968936268",
+        "totalrenewable": "11.43344852"
+    },
+    "GEO": {
+        "consumption": "1934.664974",
+        "fillKey": "VHIGH",
+        "gas": "25.49767922",
+        "hydroelectric": "74.50232078",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "74.50232078"
+    },
+    "GHA": {
+        "consumption": "346.0227254",
+        "fillKey": "VHIGH",
+        "gas": "12.0425815",
+        "hydroelectric": "67.12408516",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "67.12408516"
+    },
+    "GIN": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "GMB": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "GNB": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "GNQ": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "GRC": {
+        "consumption": "5511.066622",
+        "fillKey": "LOW",
+        "gas": "21.9858156",
+        "hydroelectric": "7.245232101",
+        "nuclear": "0",
+        "oil": "10.00477201",
+        "renewable-h": "9.458458804",
+        "totalrenewable": "16.70369091"
+    },
+    "GRD": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "GRL": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "GTM": {
+        "consumption": "529.2554851",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "47.36506587",
+        "nuclear": "0",
+        "oil": "19.9638759",
+        "renewable-h": "19.51763706",
+        "totalrenewable": "66.88270293"
+    },
+    "GUM": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "GUY": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "HKG": {
+        "consumption": "6026.192939",
+        "gas": "27.33616583",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "2.134672332",
+        "renewable-h": "0.205999743",
+        "totalrenewable": ".."
+    },
+    "HND": {
+        "consumption": "697.7648129",
+        "fillKey": "HIGH",
+        "gas": "0",
+        "hydroelectric": "36.70485974",
+        "nuclear": "0",
+        "oil": "54.56341367",
+        "renewable-h": "7.032793362",
+        "totalrenewable": "43.7376531"
+    },
+    "HRV": {
+        "consumption": "3819.280253",
+        "fillKey": "HIGH",
+        "gas": "24.15584416",
+        "hydroelectric": "44.62722463",
+        "nuclear": "0",
+        "oil": "5.598845599",
+        "renewable-h": "4.088504089",
+        "totalrenewable": "48.71572872"
+    },
+    "HTI": {
+        "consumption": "49.8599063",
+        "fillKey": "LOW",
+        "gas": "0",
+        "hydroelectric": "13.91304348",
+        "nuclear": "0",
+        "oil": "86.08695652",
+        "renewable-h": "0",
+        "totalrenewable": "13.91304348"
+    },
+    "HUN": {
+        "consumption": "3918.5062",
+        "fillKey": "VLOW",
+        "gas": "27.17837525",
+        "hydroelectric": "0.615784909",
+        "nuclear": "45.65770454",
+        "oil": "0.508817577",
+        "renewable-h": "7.033824805",
+        "totalrenewable": "7.649609714"
+    },
+    "IDN": {
+        "consumption": "729.8805316",
+        "fillKey": "LOW",
+        "gas": "23.2154981",
+        "hydroelectric": "6.533602185",
+        "nuclear": "0",
+        "oil": "16.67832257",
+        "renewable-h": "4.898032109",
+        "totalrenewable": "11.43163429"
+    },
+    "IMY": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "IND": {
+        "consumption": "743.7414577",
+        "fillKey": "LOW",
+        "gas": "8.328322576",
+        "hydroelectric": "11.15909022",
+        "nuclear": "2.915196697",
+        "oil": "2.014590617",
+        "renewable-h": "4.462146165",
+        "totalrenewable": "15.62123639"
+    },
+    "IRL": {
+        "consumption": "5664.831802",
+        "fillKey": "LOW",
+        "gas": "50.15339664",
+        "hydroelectric": "2.929145362",
+        "nuclear": "0",
+        "oil": "0.909422936",
+        "renewable-h": "16.25273923",
+        "totalrenewable": "19.18188459"
+    },
+    "IRN": {
+        "consumption": "2762.058236",
+        "fillKey": "VLOW",
+        "gas": "66.86199248",
+        "hydroelectric": "4.895074643",
+        "nuclear": "0.726376064",
+        "oil": "27.26879454",
+        "renewable-h": "0.090452894",
+        "totalrenewable": "4.985527537"
+    },
+    "IRQ": {
+        "consumption": "1473.690151",
+        "fillKey": "VLOW",
+        "gas": "53.70640477",
+        "hydroelectric": "8.790353948",
+        "nuclear": "0",
+        "oil": "23.25457021",
+        "renewable-h": "0",
+        "totalrenewable": "8.790353948"
+    },
+    "ISL": {
+        "consumption": "53202.83366",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "70.30030201",
+        "nuclear": "0",
+        "oil": "0.017094991",
+        "renewable-h": "29.682603",
+        "totalrenewable": "99.98290501"
+    },
+    "ISR": {
+        "consumption": "7188.926111",
+        "fillKey": "VLOW",
+        "gas": "16.76131857",
+        "hydroelectric": "0.052349377",
+        "nuclear": "0",
+        "oil": "20.92864621",
+        "renewable-h": "0.770963546",
+        "totalrenewable": "0.823312922"
+    },
+    "ITA": {
+        "consumption": "5397.741477",
+        "fillKey": "MEDIUM",
+        "gas": "43.41031558",
+        "hydroelectric": "14.08519398",
+        "nuclear": "0",
+        "oil": "6.353894073",
+        "renewable-h": "16.93519633",
+        "totalrenewable": "31.02039032"
+    },
+    "JAM": {
+        "consumption": "1198.018321",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "3.530512041",
+        "nuclear": "0",
+        "oil": "91.20879121",
+        "renewable-h": "5.26069675",
+        "totalrenewable": "8.791208791"
+    },
+    "JOR": {
+        "consumption": "2357.233302",
+        "fillKey": "VLOW",
+        "gas": "18.57676549",
+        "hydroelectric": "0.367558448",
+        "nuclear": "0",
+        "oil": "81.00144613",
+        "renewable-h": "0.054229935",
+        "totalrenewable": "0.421788383"
+    },
+    "JPN": {
+        "consumption": "7752.488684",
+        "fillKey": "LOW",
+        "gas": "38.70979373",
+        "hydroelectric": "7.356263144",
+        "nuclear": "1.553287739",
+        "oil": "12.2256482",
+        "renewable-h": "4.642224401",
+        "totalrenewable": "11.99848754"
+    },
+    "KAZ": {
+        "consumption": "5084.976409",
+        "fillKey": "VLOW",
+        "gas": "14.70391527",
+        "hydroelectric": "8.373260824",
+        "nuclear": "0",
+        "oil": "0.805859199",
+        "renewable-h": "0.003289221",
+        "totalrenewable": "8.376550046"
+    },
+    "KEN": {
+        "consumption": "159.6973301",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "51.85765983",
+        "nuclear": "0",
+        "oil": "24.84921592",
+        "renewable-h": "23.29312425",
+        "totalrenewable": "75.15078408"
+    },
+    "KGZ": {
+        "consumption": "1809.102582",
+        "fillKey": "VVHIGH",
+        "gas": "0.534018987",
+        "hydroelectric": "93.47969409",
+        "nuclear": "0",
+        "oil": "1.186708861",
+        "renewable-h": "0",
+        "totalrenewable": "93.47969409"
+    },
+    "KHM": {
+        "consumption": "206.5093946",
+        "fillKey": "MEDIUM",
+        "gas": "0",
+        "hydroelectric": "36.05299861",
+        "nuclear": "0",
+        "oil": "59.76290098",
+        "renewable-h": "1.60390516",
+        "totalrenewable": "37.65690377"
+    },
+    "KIR": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "KNA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "KOR": {
+        "consumption": "10345.6011",
+        "fillKey": "VLOW",
+        "gas": "21.08299509",
+        "hydroelectric": "0.747549135",
+        "nuclear": "28.31363538",
+        "oil": "3.98692872",
+        "renewable-h": "0.588395943",
+        "totalrenewable": "1.335945078"
+    },
+    "KSV": {
+        "consumption": "2862.840682",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "1.615345785",
+        "nuclear": "0",
+        "oil": "0.23557126",
+        "renewable-h": "0",
+        "totalrenewable": "1.615345785"
+    },
+    "KWT": {
+        "consumption": "15721.80919",
+        "fillKey": "VLOW",
+        "gas": "36.2173809",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "63.7826191",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "LAO": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "LBN": {
+        "consumption": "3102.419243",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "6.792121948",
+        "nuclear": "0",
+        "oil": "93.20787805",
+        "renewable-h": "0",
+        "totalrenewable": "6.792121948"
+    },
+    "LBR": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "LBY": {
+        "consumption": "4706.844364",
+        "fillKey": "VLOW",
+        "gas": "61.00058858",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "38.99941142",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "LCA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "LIE": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "LKA": {
+        "consumption": "526.8103109",
+        "fillKey": "MEDIUM",
+        "gas": "0",
+        "hydroelectric": "27.66154105",
+        "nuclear": "0",
+        "oil": "58.96143181",
+        "renewable-h": "1.579699185",
+        "totalrenewable": "29.24124023"
+    },
+    "LSO": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "LTU": {
+        "consumption": "3607.703798",
+        "fillKey": "MEDIUM",
+        "gas": "63.56811658",
+        "hydroelectric": "9.339810113",
+        "nuclear": "0",
+        "oil": "5.299183043",
+        "renewable-h": "16.7807463",
+        "totalrenewable": "26.12055641"
+    },
+    "LUX": {
+        "consumption": "14696.4098",
+        "fillKey": "LOW",
+        "gas": "86.74173629",
+        "hydroelectric": "3.523428987",
+        "nuclear": "0",
+        "oil": "0.03632401",
+        "renewable-h": "7.519070105",
+        "totalrenewable": "11.04249909"
+    },
+    "LVA": {
+        "consumption": "3588.424431",
+        "fillKey": "VHIGH",
+        "gas": "33.31712062",
+        "hydroelectric": "60.10051881",
+        "nuclear": "0",
+        "oil": "0.016212711",
+        "renewable-h": "6.533722438",
+        "totalrenewable": "66.63424125"
+    },
+    "MAC": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "MAF": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "MAR": {
+        "consumption": "875.176865",
+        "fillKey": "VLOW",
+        "gas": "22.68520212",
+        "hydroelectric": "5.966709347",
+        "nuclear": "0",
+        "oil": "25.31187123",
+        "renewable-h": "2.663252241",
+        "totalrenewable": "8.629961588"
+    },
+    "MCO": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "MDA": {
+        "consumption": "1514.530474",
+        "fillKey": "VLOW",
+        "gas": "95.08790072",
+        "hydroelectric": "4.636332299",
+        "nuclear": "0",
+        "oil": "0.275766977",
+        "renewable-h": "0",
+        "totalrenewable": "4.636332299"
+    },
+    "MDG": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "MDV": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "MEX": {
+        "consumption": "2011.715104",
+        "fillKey": "LOW",
+        "gas": "51.35812048",
+        "hydroelectric": "10.84012223",
+        "nuclear": "2.984394035",
+        "oil": "18.94732902",
+        "renewable-h": "4.192784368",
+        "totalrenewable": "15.0329066"
+    },
+    "MHL": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "MKD": {
+        "consumption": "3689.706998",
+        "fillKey": "LOW",
+        "gas": "4.758862983",
+        "hydroelectric": "16.62408176",
+        "nuclear": "0",
+        "oil": "1.405301821",
+        "renewable-h": "0.047908017",
+        "totalrenewable": "16.67198978"
+    },
+    "MLI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "MLT": {
+        "consumption": "4760.939791",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "98.90829694",
+        "renewable-h": "1.091703057",
+        "totalrenewable": "1.091703057"
+    },
+    "MMR": {
+        "consumption": "152.6534766",
+        "fillKey": "VHIGH",
+        "gas": "19.97763697",
+        "hydroelectric": "72.36302646",
+        "nuclear": "0",
+        "oil": "0.475214312",
+        "renewable-h": "0",
+        "totalrenewable": "72.36302646"
+    },
+    "MNE": {
+        "consumption": "5415.717989",
+        "fillKey": "HIGH",
+        "gas": "0",
+        "hydroelectric": "51.93389592",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "51.93389592"
+    },
+    "MNG": {
+        "consumption": "1597.385501",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "5.253322259",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "MNP": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "MOZ": {
+        "consumption": "444.4111451",
+        "fillKey": "VVHIGH",
+        "gas": "0.138467625",
+        "hydroelectric": "99.86153238",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "99.86153238"
+    },
+    "MRT": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "MUS": {
+        "consumption": "2075.035712",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "2.645691813",
+        "nuclear": "0",
+        "oil": "38.18376832",
+        "renewable-h": "18.05505899",
+        "totalrenewable": "0"
+    },
+    "MWI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "MYS": {
+        "consumption": "4345.471047",
+        "fillKey": "VLOW",
+        "gas": "46.62042997",
+        "hydroelectric": "6.739047931",
+        "nuclear": "0",
+        "oil": "4.475335055",
+        "renewable-h": "0.644436341",
+        "totalrenewable": "7.383484272"
+    },
+    "NAM": {
+        "consumption": "1590.560493",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "97.80888618",
+        "nuclear": "0",
+        "oil": "1.278149726",
+        "renewable-h": "0",
+        "totalrenewable": "97.80888618"
+    },
+    "NCL": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "NER": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "NGA": {
+        "consumption": "155.854358",
+        "fillKey": "LOW",
+        "gas": "80.28635129",
+        "hydroelectric": "19.71364871",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "19.71364871"
+    },
+    "NIC": {
+        "consumption": "579.5440353",
+        "fillKey": "HIGH",
+        "gas": "0",
+        "hydroelectric": "10.39444307",
+        "nuclear": "0",
+        "oil": "57.18184073",
+        "renewable-h": "32.4237162",
+        "totalrenewable": "42.81815927"
+    },
+    "NLD": {
+        "consumption": "6871.098842",
+        "fillKey": "LOW",
+        "gas": "54.37783523",
+        "hydroelectric": "0.101458465",
+        "nuclear": "3.819325887",
+        "oil": "1.066289449",
+        "renewable-h": "12.1350178",
+        "totalrenewable": "12.23647627"
+    },
+    "NOR": {
+        "consumption": "23657.72103",
+        "fillKey": "VVHIGH",
+        "gas": "1.791882703",
+        "hydroelectric": "96.67445647",
+        "nuclear": "0",
+        "oil": "0.028615617",
+        "renewable-h": "1.307461182",
+        "totalrenewable": "97.98191766"
+    },
+    "NPL": {
+        "consumption": "119.0886789",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "99.46509009",
+        "nuclear": "0",
+        "oil": "0.53490991",
+        "renewable-h": "0",
+        "totalrenewable": "99.46509009"
+    },
+    "NZL": {
+        "consumption": "9373.426193",
+        "fillKey": "VHIGH",
+        "gas": "20.10384919",
+        "hydroelectric": "51.68529179",
+        "nuclear": "0",
+        "oil": "0.006772773",
+        "renewable-h": "20.09030365",
+        "totalrenewable": "71.77559544"
+    },
+    "OMN": {
+        "consumption": "6094.733374",
+        "fillKey": "VLOW",
+        "gas": "97.58164448",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "2.418355518",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "PAK": {
+        "consumption": "451.6995477",
+        "fillKey": "MEDIUM",
+        "gas": "28.20910273",
+        "hydroelectric": "31.06059818",
+        "nuclear": "4.736540962",
+        "oil": "35.93029909",
+        "renewable-h": "0",
+        "totalrenewable": "31.06059818"
+    },
+    "PAN": {
+        "consumption": "1973.683683",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "62.64234255",
+        "nuclear": "0",
+        "oil": "28.99140135",
+        "renewable-h": "0.302114804",
+        "totalrenewable": "62.94445736"
+    },
+    "PER": {
+        "consumption": "1211.322691",
+        "fillKey": "HIGH",
+        "gas": "39.21922373",
+        "hydroelectric": "53.50672781",
+        "nuclear": "0",
+        "oil": "3.558094665",
+        "renewable-h": "1.726427623",
+        "totalrenewable": "55.23315543"
+    },
+    "PHL": {
+        "consumption": "672.3890925",
+        "fillKey": "MEDIUM",
+        "gas": "26.93599923",
+        "hydroelectric": "14.05905021",
+        "nuclear": "0",
+        "oil": "5.833710454",
+        "renewable-h": "14.38543081",
+        "totalrenewable": "28.44448101"
+    },
+    "PLW": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "PNG": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "POL": {
+        "consumption": "3899.176642",
+        "fillKey": "LOW",
+        "gas": "3.871103388",
+        "hydroelectric": "1.259654569",
+        "nuclear": "0",
+        "oil": "1.264601666",
+        "renewable-h": "9.178101675",
+        "totalrenewable": "10.43775624"
+    },
+    "PRI": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "PRK": {
+        "consumption": "653.9905965",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "70.18091079",
+        "nuclear": "0",
+        "oil": "2.864420878",
+        "renewable-h": "0",
+        "totalrenewable": "70.18091079"
+    },
+    "PRT": {
+        "consumption": "4736.351771",
+        "fillKey": "HIGH",
+        "gas": "23.41144462",
+        "hydroelectric": "12.33543971",
+        "nuclear": "0",
+        "oil": "4.805160611",
+        "renewable-h": "30.16499912",
+        "totalrenewable": "42.50043883"
+    },
+    "PRY": {
+        "consumption": "1367.891268",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "99.99501942",
+        "nuclear": "0",
+        "oil": "0.004980576",
+        "renewable-h": "0",
+        "totalrenewable": "99.99501942"
+    },
+    "PYF": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "QAT": {
+        "consumption": "16183.0778",
+        "gas": "100",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": ".."
+    },
+    "ROM": {
+        "consumption": "2604.243137",
+        "fillKey": "MEDIUM",
+        "gas": "14.83479089",
+        "hydroelectric": "20.52948583",
+        "nuclear": "19.50862626",
+        "oil": "1.277775887",
+        "renewable-h": "4.866097254",
+        "totalrenewable": "25.39558308"
+    },
+    "RUS": {
+        "consumption": "6617.136241",
+        "fillKey": "LOW",
+        "gas": "49.13219983",
+        "hydroelectric": "15.51444713",
+        "nuclear": "16.60262243",
+        "oil": "2.622805484",
+        "renewable-h": "0.04928398",
+        "totalrenewable": "15.56373111"
+    },
+    "RWA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SAU": {
+        "consumption": "8404.516036",
+        "fillKey": "VLOW",
+        "gas": "44.6856596",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "27.68808893",
+        "renewable-h": "0.00036808",
+        "totalrenewable": "0.00036808"
+    },
+    "SDN": {
+        "consumption": "156.9423377",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "70.14624841",
+        "nuclear": "0",
+        "oil": "29.85375159",
+        "renewable-h": "0",
+        "totalrenewable": "70.14624841"
+    },
+    "SEN": {
+        "consumption": "209.5774576",
+        "fillKey": "VLOW",
+        "gas": "4.057971014",
+        "hydroelectric": "8.405797101",
+        "nuclear": "0",
+        "oil": "82.66666667",
+        "renewable-h": "1.420289855",
+        "totalrenewable": "9.826086957"
+    },
+    "SGP": {
+        "consumption": "8689.669453",
+        "fillKey": "VLOW",
+        "gas": "84.27189019",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "13.03606446",
+        "renewable-h": "1.359877227",
+        "totalrenewable": "1.359877227"
+    },
+    "SLB": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SLE": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SLV": {
+        "consumption": "881.2244194",
+        "fillKey": "VHIGH",
+        "gas": "0",
+        "hydroelectric": "31.48653256",
+        "nuclear": "0",
+        "oil": "35.9529492",
+        "renewable-h": "32.56051824",
+        "totalrenewable": "64.0470508"
+    },
+    "SMR": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "SOM": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "SRB": {
+        "consumption": "4386.534552",
+        "fillKey": "MEDIUM",
+        "gas": "1.318736004",
+        "hydroelectric": "25.67250007",
+        "nuclear": "0",
+        "oil": "0.185231263",
+        "renewable-h": "0.016587874",
+        "totalrenewable": "25.68908794"
+    },
+    "SSD": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "STP": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SUR": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SVK": {
+        "consumption": "5137.789018",
+        "fillKey": "LOW",
+        "gas": "10.07130754",
+        "hydroelectric": "14.48390285",
+        "nuclear": "54.69853149",
+        "oil": "1.786218582",
+        "renewable-h": "4.839734538",
+        "totalrenewable": "19.32363739"
+    },
+    "SVN": {
+        "consumption": "6777.794035",
+        "fillKey": "MEDIUM",
+        "gas": "3.416768548",
+        "hydroelectric": "25.0434335",
+        "nuclear": "35.57042661",
+        "oil": "0.057911331",
+        "renewable-h": "2.766874718",
+        "totalrenewable": "27.81030822"
+    },
+    "SWE": {
+        "consumption": "14289.59509",
+        "fillKey": "HIGH",
+        "gas": "0.535941743",
+        "hydroelectric": "47.42483597",
+        "nuclear": "38.47545002",
+        "oil": "0.389338845",
+        "renewable-h": "11.64291379",
+        "totalrenewable": "59.06774977"
+    },
+    "SWZ": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SXM": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "SYC": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "SYR": {
+        "consumption": "1221.720756",
+        "fillKey": "LOW",
+        "gas": "52.61318456",
+        "hydroelectric": "10.37899192",
+        "nuclear": "0",
+        "oil": "37.00782352",
+        "renewable-h": "0",
+        "totalrenewable": "10.37899192"
+    },
+    "TCA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "TCD": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "TGO": {
+        "consumption": "144.983805",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "80.18018018",
+        "nuclear": "0",
+        "oil": "15.31531532",
+        "renewable-h": "4.504504505",
+        "totalrenewable": "84.68468468"
+    },
+    "THA": {
+        "consumption": "2464.678691",
+        "fillKey": "VLOW",
+        "gas": "70.25404961",
+        "hydroelectric": "5.253839552",
+        "nuclear": "0",
+        "oil": "1.456599108",
+        "renewable-h": "3.014626008",
+        "totalrenewable": "8.26846556"
+    },
+    "TJK": {
+        "consumption": "1748.597169",
+        "fillKey": "VVHIGH",
+        "gas": "0.435960881",
+        "hydroelectric": "99.56403912",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": "99.56403912"
+    },
+    "TKM": {
+        "consumption": "2476.154281",
+        "gas": "100",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "0",
+        "totalrenewable": ".."
+    },
+    "TMP": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "TON": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "TTO": {
+        "consumption": "6628.756115",
+        "gas": "99.73718791",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "0.262812089",
+        "renewable-h": "0",
+        "totalrenewable": ".."
+    },
+    "TUN": {
+        "consumption": "1411.087915",
+        "fillKey": "VLOW",
+        "gas": "96.99193773",
+        "hydroelectric": "0.611620795",
+        "nuclear": "0",
+        "oil": "0",
+        "renewable-h": "1.117597998",
+        "totalrenewable": "1.729218793"
+    },
+    "TUR": {
+        "consumption": "2789.663675",
+        "fillKey": "MEDIUM",
+        "gas": "43.63287905",
+        "hydroelectric": "24.16115509",
+        "nuclear": "0",
+        "oil": "0.68435381",
+        "renewable-h": "3.069362328",
+        "totalrenewable": "27.23051742"
+    },
+    "TUV": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "TZA": {
+        "consumption": "98.83708345",
+        "fillKey": "MEDIUM",
+        "gas": "50.73339085",
+        "hydroelectric": "28.59361519",
+        "nuclear": "0",
+        "oil": "20.12079379",
+        "renewable-h": "0.552200173",
+        "totalrenewable": "29.14581536"
+    },
+    "UGA": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "UKR": {
+        "consumption": "3640.556836",
+        "fillKey": "VLOW",
+        "gas": "8.085681301",
+        "hydroelectric": "5.282739221",
+        "nuclear": "45.44042992",
+        "oil": "0.269707556",
+        "renewable-h": "0.380615337",
+        "totalrenewable": "5.663354557"
+    },
+    "URY": {
+        "consumption": "2931.917628",
+        "fillKey": "VHIGH",
+        "gas": "0.075471698",
+        "hydroelectric": "51.14150943",
+        "nuclear": "0",
+        "oil": "38.19811321",
+        "renewable-h": "10.58490566",
+        "totalrenewable": "61.72641509"
+    },
+    "USA": {
+        "consumption": "12954.15326",
+        "fillKey": "LOW",
+        "gas": "29.60945459",
+        "hydroelectric": "6.52132835",
+        "nuclear": "18.75841622",
+        "oil": "0.774333253",
+        "renewable-h": "5.483740524",
+        "totalrenewable": "12.00506887"
+    },
+    "UZB": {
+        "consumption": "1605.333423",
+        "fillKey": "MEDIUM",
+        "gas": "73.83238095",
+        "hydroelectric": "21.35238095",
+        "nuclear": "0",
+        "oil": "0.72952381",
+        "renewable-h": "0",
+        "totalrenewable": "21.35238095"
+    },
+    "VCT": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "VEN": {
+        "consumption": "3412.681308",
+        "fillKey": "VHIGH",
+        "gas": "19.67261058",
+        "hydroelectric": "64.82025989",
+        "nuclear": "0",
+        "oil": "15.50712953",
+        "renewable-h": "0",
+        "totalrenewable": "64.82025989"
+    },
+    "VIR": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "VNM": {
+        "consumption": "1272.539255",
+        "fillKey": "HIGH",
+        "gas": "35.75155684",
+        "hydroelectric": "43.45638813",
+        "nuclear": "0",
+        "oil": "2.742480361",
+        "renewable-h": "0.117220888",
+        "totalrenewable": "43.57360902"
+    },
+    "VUT": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "WBG": {
+        "consumption": "..",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": ".."
+    },
+    "WSM": {
+        "consumption": "..",
+        "fillKey": "VLOW",
+        "gas": "..",
+        "hydroelectric": "..",
+        "nuclear": "..",
+        "oil": "..",
+        "renewable-h": "..",
+        "totalrenewable": "0"
+    },
+    "YEM": {
+        "consumption": "170.0773772",
+        "fillKey": "VLOW",
+        "gas": "33.75892993",
+        "hydroelectric": "0",
+        "nuclear": "0",
+        "oil": "66.24107007",
+        "renewable-h": "0",
+        "totalrenewable": "0"
+    },
+    "ZAF": {
+        "consumption": "4404.500084",
+        "fillKey": "VLOW",
+        "gas": "0",
+        "hydroelectric": "0.781020267",
+        "nuclear": "5.126425695",
+        "oil": "0.076063219",
+        "renewable-h": "0.174866987",
+        "totalrenewable": "0.955887254"
+    },
+    "ZAR": {
+        "consumption": "104.8922795",
+        "fillKey": "VVHIGH",
+        "gas": "0.364047201",
+        "hydroelectric": "99.56063269",
+        "nuclear": "0",
+        "oil": "0.07532011",
+        "renewable-h": "0",
+        "totalrenewable": "99.56063269"
+    },
+    "ZMB": {
+        "consumption": "571.2611996",
+        "fillKey": "VVHIGH",
+        "gas": "0",
+        "hydroelectric": "99.69620253",
+        "nuclear": "0",
+        "oil": "0.303797468",
+        "renewable-h": "0",
+        "totalrenewable": "99.69620253"
+    },
+    "ZWE": {
+        "consumption": "561.807704",
+        "fillKey": "HIGH",
+        "gas": "0",
+        "hydroelectric": "59.27596831",
+        "nuclear": "0",
+        "oil": "0.29709507",
+        "renewable-h": "0.693221831",
+        "totalrenewable": "59.96919014"
+    }
+}

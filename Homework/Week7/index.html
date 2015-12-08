@@ -1,0 +1,28 @@
+<!-- by: Anneke ter Schure, 6084087 -->
+<!-- needs downloading and installation of d3, topojson and a datamap file -->
+
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Dashboard</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+        <script src="d3/d3.js" charset="utf-8"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+        <script src="/Datamap.js"></script>
+        <div id="wrapper">
+			<div id="header">
+				<h3>Graphical graph something something</h3>
+			</div>
+            <div id="map container" style="position: relative; width: 620px; height: 500px;"></div>
+            <div id="detail container" style="position: relative; width: 620px; height: 500px;"></div>
+            <script src="/dashboard.js"></script>
+
+            <div id=footer>
+                <p>The data used in this map come from <a href="http://data.worldbank.org/">The World Bank<a> </p>
+            </div>
+        </div>
+	</body>
+</html>
