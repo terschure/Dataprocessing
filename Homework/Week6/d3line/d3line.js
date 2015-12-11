@@ -138,10 +138,6 @@ d3.json("data/temp.json", function(error, json) {
             d1 = data[i],
             d = x0 - d0.date > d1.date - x0 ? d1 : d0;
 
-            console.log("d.date ", d.date);
-            console.log("d.maxtemp ", d.maxtemp);
-            console.log("y : ", y(d.maxtemp))
-
             focus.select("#focusCircleY")
                 .attr("transform",
                     "translate(" + x(d.date) + "," + y(d.maxtemp) + ")");
