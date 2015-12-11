@@ -1,5 +1,6 @@
 {
     "ABW": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -10,6 +11,7 @@
         "totalrenewable": "0"
     }, 
     "ADO": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -19,6 +21,7 @@
         "totalrenewable": ".."
     }, 
     "AFG": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -29,6 +32,7 @@
         "totalrenewable": "0"
     }, 
     "AGO": {
+        "coal": "0", 
         "consumption": "219.5222068", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -39,6 +43,7 @@
         "totalrenewable": "70.90682345"
     }, 
     "ALB": {
+        "coal": "0", 
         "consumption": "2118.263507", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -49,6 +54,7 @@
         "totalrenewable": "100"
     }, 
     "ARE": {
+        "coal": "0", 
         "consumption": "10462.61498", 
         "fillKey": "VLOW", 
         "gas": "98.6197945", 
@@ -59,6 +65,7 @@
         "totalrenewable": "0"
     }, 
     "ARG": {
+        "coal": "2.728972517", 
         "consumption": "2954.610718", 
         "fillKey": "MEDIUM", 
         "gas": "53.87457708", 
@@ -69,6 +76,7 @@
         "totalrenewable": "23.76906868"
     }, 
     "ARM": {
+        "coal": "0", 
         "consumption": "1832.229306", 
         "fillKey": "MEDIUM", 
         "gas": "42.29716277", 
@@ -79,6 +87,7 @@
         "totalrenewable": "28.94474863"
     }, 
     "ASM": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -88,6 +97,7 @@
         "totalrenewable": ".."
     }, 
     "ATG": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -98,6 +108,7 @@
         "totalrenewable": "0"
     }, 
     "AUS": {
+        "coal": "68.80273541", 
         "consumption": "10398.20305", 
         "fillKey": "VLOW", 
         "gas": "19.92976648", 
@@ -108,6 +119,7 @@
         "totalrenewable": "9.632599926"
     }, 
     "AUT": {
+        "coal": "9.084030557", 
         "consumption": "8507.12652", 
         "fillKey": "VHIGH", 
         "gas": "14.12440888", 
@@ -118,6 +130,7 @@
         "totalrenewable": "74.54492543"
     }, 
     "AZE": {
+        "coal": "0", 
         "consumption": "2052.650965", 
         "fillKey": "VLOW", 
         "gas": "89.89037759", 
@@ -128,6 +141,7 @@
         "totalrenewable": "7.921524274"
     }, 
     "BDI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -138,6 +152,7 @@
         "totalrenewable": "0"
     }, 
     "BEL": {
+        "coal": "6.68223899", 
         "consumption": "7986.523662", 
         "fillKey": "LOW", 
         "gas": "28.79575389", 
@@ -148,6 +163,7 @@
         "totalrenewable": "12.78846507"
     }, 
     "BEN": {
+        "coal": "0", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -158,6 +174,7 @@
         "totalrenewable": "0.613496933"
     }, 
     "BFA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -168,6 +185,7 @@
         "totalrenewable": "0"
     }, 
     "BGD": {
+        "coal": "1.80060768", 
         "consumption": "278.5954397", 
         "fillKey": "VLOW", 
         "gas": "85.08941863", 
@@ -178,6 +196,7 @@
         "totalrenewable": "1.58445319"
     }, 
     "BGR": {
+        "coal": "49.11226089", 
         "consumption": "4761.912583", 
         "fillKey": "LOW", 
         "gas": "5.058073381", 
@@ -188,6 +207,7 @@
         "totalrenewable": "11.43648425"
     }, 
     "BHR": {
+        "coal": "0", 
         "consumption": "17395.32101", 
         "fillKey": "VLOW", 
         "gas": "100", 
@@ -198,6 +218,7 @@
         "totalrenewable": "0"
     }, 
     "BHS": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -208,6 +229,7 @@
         "totalrenewable": "0"
     }, 
     "BIH": {
+        "coal": "69.50007101", 
         "consumption": "3276.025952", 
         "fillKey": "MEDIUM", 
         "gas": "0.369265729", 
@@ -218,6 +240,7 @@
         "totalrenewable": "29.93182787"
     }, 
     "BLR": {
+        "coal": "0", 
         "consumption": "3697.590871", 
         "fillKey": "VLOW", 
         "gas": "96.71417903", 
@@ -228,6 +251,7 @@
         "totalrenewable": "0.555212832"
     }, 
     "BLZ": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -238,6 +262,7 @@
         "totalrenewable": "0"
     }, 
     "BMU": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -248,6 +273,7 @@
         "totalrenewable": "0"
     }, 
     "BOL": {
+        "coal": "0", 
         "consumption": "662.5801049", 
         "fillKey": "MEDIUM", 
         "gas": "64.22138102", 
@@ -258,6 +284,7 @@
         "totalrenewable": "33.75538441"
     }, 
     "BRA": {
+        "coal": "2.564306776", 
         "consumption": "2462.218873", 
         "fillKey": "VVHIGH", 
         "gas": "8.46382331", 
@@ -268,6 +295,7 @@
         "totalrenewable": "82.47141469"
     }, 
     "BRB": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -278,6 +306,7 @@
         "totalrenewable": "0"
     }, 
     "BRN": {
+        "coal": "0", 
         "consumption": "9092.209355", 
         "fillKey": "VLOW", 
         "gas": "99.00763359", 
@@ -288,6 +317,7 @@
         "totalrenewable": "0.050890585"
     }, 
     "BTN": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -298,6 +328,7 @@
         "totalrenewable": "0"
     }, 
     "BWA": {
+        "coal": "100", 
         "consumption": "1513.487764", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -308,6 +339,7 @@
         "totalrenewable": "0"
     }, 
     "CAF": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -318,6 +350,7 @@
         "totalrenewable": "0"
     }, 
     "CAN": {
+        "coal": "10.03849683", 
         "consumption": "15614.6092", 
         "fillKey": "VHIGH", 
         "gas": "10.64668994", 
@@ -328,6 +361,7 @@
         "totalrenewable": "63.24845745"
     }, 
     "CHE": {
+        "coal": "0", 
         "consumption": "7886.094306", 
         "fillKey": "HIGH", 
         "gas": "1.354146799", 
@@ -338,6 +372,7 @@
         "totalrenewable": "59.47829404"
     }, 
     "CHI": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -347,6 +382,7 @@
         "totalrenewable": ".."
     }, 
     "CHL": {
+        "coal": "36.32492724", 
         "consumption": "3810.118184", 
         "fillKey": "MEDIUM", 
         "gas": "18.42124127", 
@@ -357,6 +393,7 @@
         "totalrenewable": "36.44535562"
     }, 
     "CHN": {
+        "coal": "75.92991214", 
         "consumption": "3475.008792", 
         "fillKey": "LOW", 
         "gas": "1.71895525", 
@@ -367,6 +404,7 @@
         "totalrenewable": "19.12718369"
     }, 
     "CIV": {
+        "coal": "0", 
         "consumption": "239.7330268", 
         "fillKey": "MEDIUM", 
         "gas": "67.46009122", 
@@ -377,6 +415,7 @@
         "totalrenewable": "26.4395667"
     }, 
     "CMR": {
+        "coal": "0", 
         "consumption": "262.3330708", 
         "fillKey": "VHIGH", 
         "gas": "7.204062202", 
@@ -387,6 +426,7 @@
         "totalrenewable": "73.04030467"
     }, 
     "COG": {
+        "coal": "0", 
         "consumption": "181.7465776", 
         "fillKey": "VHIGH", 
         "gas": "38.15201192", 
@@ -397,6 +437,7 @@
         "totalrenewable": "61.17734724"
     }, 
     "COL": {
+        "coal": "5.471870639", 
         "consumption": "1149.953698", 
         "fillKey": "VHIGH", 
         "gas": "14.42642411", 
@@ -407,6 +448,7 @@
         "totalrenewable": "79.55147023"
     }, 
     "COM": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -417,6 +459,7 @@
         "totalrenewable": "0"
     }, 
     "CPV": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -427,6 +470,7 @@
         "totalrenewable": "0"
     }, 
     "CRI": {
+        "coal": "0", 
         "consumption": "1957.178843", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -437,6 +481,7 @@
         "totalrenewable": "91.84275184"
     }, 
     "CUB": {
+        "coal": "0", 
         "consumption": "1367.672104", 
         "fillKey": "VLOW", 
         "gas": "11.34982639", 
@@ -447,6 +492,7 @@
         "totalrenewable": "3.732638889"
     }, 
     "CUW": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -456,6 +502,7 @@
         "totalrenewable": ".."
     }, 
     "CYM": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -466,6 +513,7 @@
         "totalrenewable": "0"
     }, 
     "CYP": {
+        "coal": "0", 
         "consumption": "4055.598896", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -476,6 +524,7 @@
         "totalrenewable": "5.448378206"
     }, 
     "CZE": {
+        "coal": "54.23067179", 
         "consumption": "6304.571923", 
         "fillKey": "VLOW", 
         "gas": "1.386425923", 
@@ -486,6 +535,7 @@
         "totalrenewable": "9.286980954"
     }, 
     "DEU": {
+        "coal": "46.05789552", 
         "consumption": "7270.152523", 
         "fillKey": "MEDIUM", 
         "gas": "12.45304153", 
@@ -496,6 +546,7 @@
         "totalrenewable": "22.93113934"
     }, 
     "DJI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -506,6 +557,7 @@
         "totalrenewable": "0"
     }, 
     "DMA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -516,6 +568,7 @@
         "totalrenewable": "0"
     }, 
     "DNK": {
+        "coal": "34.38344127", 
         "consumption": "6038.552307", 
         "fillKey": "HIGH", 
         "gas": "13.64597911", 
@@ -526,6 +579,7 @@
         "totalrenewable": "48.28326879"
     }, 
     "DOM": {
+        "coal": "12.94942827", 
         "consumption": "1472.569866", 
         "fillKey": "LOW", 
         "gas": "24.7789697", 
@@ -536,6 +590,7 @@
         "totalrenewable": "10.69197218"
     }, 
     "DZA": {
+        "coal": "0", 
         "consumption": "1236.130029", 
         "fillKey": "VLOW", 
         "gas": "92.42294893", 
@@ -546,6 +601,7 @@
         "totalrenewable": "1.083680332"
     }, 
     "ECU": {
+        "coal": "0", 
         "consumption": "1281.559647", 
         "fillKey": "HIGH", 
         "gas": "10.22891408", 
@@ -556,6 +612,7 @@
         "totalrenewable": "54.86934827"
     }, 
     "EGY": {
+        "coal": "0", 
         "consumption": "1700.449057", 
         "fillKey": "VLOW", 
         "gas": "75.77693412", 
@@ -566,6 +623,7 @@
         "totalrenewable": "9.037867173"
     }, 
     "ERI": {
+        "coal": "0", 
         "consumption": "62.34371912", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -576,6 +634,7 @@
         "totalrenewable": "0.557103064"
     }, 
     "ESP": {
+        "coal": "19.04831565", 
         "consumption": "5573.401182", 
         "fillKey": "MEDIUM", 
         "gas": "24.93961394", 
@@ -586,6 +645,7 @@
         "totalrenewable": "29.58474801"
     }, 
     "EST": {
+        "coal": "4.228294476", 
         "consumption": "6689.367776", 
         "fillKey": "LOW", 
         "gas": "1.052895463", 
@@ -596,6 +656,7 @@
         "totalrenewable": "12.34227459"
     }, 
     "ETH": {
+        "coal": "0", 
         "consumption": "57.4349761", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -606,6 +667,7 @@
         "totalrenewable": "99.40298507"
     }, 
     "FIN": {
+        "coal": "10.78566457", 
         "consumption": "15687.19153", 
         "fillKey": "HIGH", 
         "gas": "9.554112985", 
@@ -616,6 +678,7 @@
         "totalrenewable": "40.53750764"
     }, 
     "FJI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -626,6 +689,7 @@
         "totalrenewable": "0"
     }, 
     "FRA": {
+        "coal": "3.868808735", 
         "consumption": "7343.878483", 
         "fillKey": "LOW", 
         "gas": "3.899913657", 
@@ -636,6 +700,7 @@
         "totalrenewable": "14.90050894"
     }, 
     "FRO": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -645,6 +710,7 @@
         "totalrenewable": ".."
     }, 
     "FSM": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -654,6 +720,7 @@
         "totalrenewable": ".."
     }, 
     "GAB": {
+        "coal": "0", 
         "consumption": "1094.522491", 
         "fillKey": "HIGH", 
         "gas": "40.46426946", 
@@ -664,6 +731,7 @@
         "totalrenewable": "41.73873464"
     }, 
     "GBR": {
+        "coal": "39.95582909", 
         "consumption": "5452.030838", 
         "fillKey": "LOW", 
         "gas": "27.73123914", 
@@ -674,6 +742,7 @@
         "totalrenewable": "11.43344852"
     }, 
     "GEO": {
+        "coal": "0", 
         "consumption": "1934.664974", 
         "fillKey": "VHIGH", 
         "gas": "25.49767922", 
@@ -684,6 +753,7 @@
         "totalrenewable": "74.50232078"
     }, 
     "GHA": {
+        "coal": "0", 
         "consumption": "346.0227254", 
         "fillKey": "VHIGH", 
         "gas": "12.0425815", 
@@ -694,6 +764,7 @@
         "totalrenewable": "67.12408516"
     }, 
     "GIN": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -704,6 +775,7 @@
         "totalrenewable": "0"
     }, 
     "GMB": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -714,6 +786,7 @@
         "totalrenewable": "0"
     }, 
     "GNB": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -724,6 +797,7 @@
         "totalrenewable": "0"
     }, 
     "GNQ": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -734,6 +808,7 @@
         "totalrenewable": "0"
     }, 
     "GRC": {
+        "coal": "51.20699018", 
         "consumption": "5511.066622", 
         "fillKey": "LOW", 
         "gas": "21.9858156", 
@@ -744,6 +819,7 @@
         "totalrenewable": "16.70369091"
     }, 
     "GRD": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -754,6 +830,7 @@
         "totalrenewable": "0"
     }, 
     "GRL": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -763,6 +840,7 @@
         "totalrenewable": ".."
     }, 
     "GTM": {
+        "coal": "13.15342116", 
         "consumption": "529.2554851", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -773,6 +851,7 @@
         "totalrenewable": "66.88270293"
     }, 
     "GUM": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -782,6 +861,7 @@
         "totalrenewable": ".."
     }, 
     "GUY": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -792,6 +872,7 @@
         "totalrenewable": "0"
     }, 
     "HKG": {
+        "coal": "70.3231621", 
         "consumption": "6026.192939", 
         "gas": "27.33616583", 
         "hydroelectric": "0", 
@@ -801,6 +882,7 @@
         "totalrenewable": ".."
     }, 
     "HND": {
+        "coal": "1.698933228", 
         "consumption": "697.7648129", 
         "fillKey": "HIGH", 
         "gas": "0", 
@@ -811,6 +893,7 @@
         "totalrenewable": "43.7376531"
     }, 
     "HRV": {
+        "coal": "21.52958153", 
         "consumption": "3819.280253", 
         "fillKey": "HIGH", 
         "gas": "24.15584416", 
@@ -821,6 +904,7 @@
         "totalrenewable": "48.71572872"
     }, 
     "HTI": {
+        "coal": "0", 
         "consumption": "49.8599063", 
         "fillKey": "LOW", 
         "gas": "0", 
@@ -831,6 +915,7 @@
         "totalrenewable": "13.91304348"
     }, 
     "HUN": {
+        "coal": "18.66435386", 
         "consumption": "3918.5062", 
         "fillKey": "VLOW", 
         "gas": "27.17837525", 
@@ -841,6 +926,7 @@
         "totalrenewable": "7.649609714"
     }, 
     "IDN": {
+        "coal": "48.66127262", 
         "consumption": "729.8805316", 
         "fillKey": "LOW", 
         "gas": "23.2154981", 
@@ -851,6 +937,7 @@
         "totalrenewable": "11.43163429"
     }, 
     "IMY": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -860,6 +947,7 @@
         "totalrenewable": ".."
     }, 
     "IND": {
+        "coal": "71.06770819", 
         "consumption": "743.7414577", 
         "fillKey": "LOW", 
         "gas": "8.328322576", 
@@ -870,6 +958,7 @@
         "totalrenewable": "15.62123639"
     }, 
     "IRL": {
+        "coal": "20.08400292", 
         "consumption": "5664.831802", 
         "fillKey": "LOW", 
         "gas": "50.15339664", 
@@ -880,6 +969,7 @@
         "totalrenewable": "19.18188459"
     }, 
     "IRN": {
+        "coal": "0.15730938", 
         "consumption": "2762.058236", 
         "fillKey": "VLOW", 
         "gas": "66.86199248", 
@@ -890,6 +980,7 @@
         "totalrenewable": "4.985527537"
     }, 
     "IRQ": {
+        "coal": "0", 
         "consumption": "1473.690151", 
         "fillKey": "VLOW", 
         "gas": "53.70640477", 
@@ -900,6 +991,7 @@
         "totalrenewable": "8.790353948"
     }, 
     "ISL": {
+        "coal": "0", 
         "consumption": "53202.83366", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -910,6 +1002,7 @@
         "totalrenewable": "99.98290501"
     }, 
     "ISR": {
+        "coal": "61.42168216", 
         "consumption": "7188.926111", 
         "fillKey": "VLOW", 
         "gas": "16.76131857", 
@@ -920,6 +1013,7 @@
         "totalrenewable": "0.823312922"
     }, 
     "ITA": {
+        "coal": "18.20059334", 
         "consumption": "5397.741477", 
         "fillKey": "MEDIUM", 
         "gas": "43.41031558", 
@@ -930,6 +1024,7 @@
         "totalrenewable": "31.02039032"
     }, 
     "JAM": {
+        "coal": "0", 
         "consumption": "1198.018321", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -940,6 +1035,7 @@
         "totalrenewable": "8.791208791"
     }, 
     "JOR": {
+        "coal": "0", 
         "consumption": "2357.233302", 
         "fillKey": "VLOW", 
         "gas": "18.57676549", 
@@ -950,6 +1046,7 @@
         "totalrenewable": "0.421788383"
     }, 
     "JPN": {
+        "coal": "29.55037587", 
         "consumption": "7752.488684", 
         "fillKey": "LOW", 
         "gas": "38.70979373", 
@@ -960,6 +1057,7 @@
         "totalrenewable": "11.99848754"
     }, 
     "KAZ": {
+        "coal": "76.11367549", 
         "consumption": "5084.976409", 
         "fillKey": "VLOW", 
         "gas": "14.70391527", 
@@ -970,6 +1068,7 @@
         "totalrenewable": "8.376550046"
     }, 
     "KEN": {
+        "coal": "0", 
         "consumption": "159.6973301", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -980,6 +1079,7 @@
         "totalrenewable": "75.15078408"
     }, 
     "KGZ": {
+        "coal": "4.799578059", 
         "consumption": "1809.102582", 
         "fillKey": "VVHIGH", 
         "gas": "0.534018987", 
@@ -990,6 +1090,7 @@
         "totalrenewable": "93.47969409"
     }, 
     "KHM": {
+        "coal": "2.580195258", 
         "consumption": "206.5093946", 
         "fillKey": "MEDIUM", 
         "gas": "0", 
@@ -1000,6 +1101,7 @@
         "totalrenewable": "37.65690377"
     }, 
     "KIR": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1010,6 +1112,7 @@
         "totalrenewable": "0"
     }, 
     "KNA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1020,6 +1123,7 @@
         "totalrenewable": "0"
     }, 
     "KOR": {
+        "coal": "45.0802829", 
         "consumption": "10345.6011", 
         "fillKey": "VLOW", 
         "gas": "21.08299509", 
@@ -1030,6 +1134,7 @@
         "totalrenewable": "1.335945078"
     }, 
     "KSV": {
+        "coal": "98.14908295", 
         "consumption": "2862.840682", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -1040,6 +1145,7 @@
         "totalrenewable": "1.615345785"
     }, 
     "KWT": {
+        "coal": "0", 
         "consumption": "15721.80919", 
         "fillKey": "VLOW", 
         "gas": "36.2173809", 
@@ -1050,6 +1156,7 @@
         "totalrenewable": "0"
     }, 
     "LAO": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1060,6 +1167,7 @@
         "totalrenewable": "0"
     }, 
     "LBN": {
+        "coal": "0", 
         "consumption": "3102.419243", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -1070,6 +1178,7 @@
         "totalrenewable": "6.792121948"
     }, 
     "LBR": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1079,6 +1188,7 @@
         "totalrenewable": ".."
     }, 
     "LBY": {
+        "coal": "0", 
         "consumption": "4706.844364", 
         "fillKey": "VLOW", 
         "gas": "61.00058858", 
@@ -1089,6 +1199,7 @@
         "totalrenewable": "0"
     }, 
     "LCA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1099,6 +1210,7 @@
         "totalrenewable": "0"
     }, 
     "LIE": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1108,6 +1220,7 @@
         "totalrenewable": ".."
     }, 
     "LKA": {
+        "coal": "11.79732796", 
         "consumption": "526.8103109", 
         "fillKey": "MEDIUM", 
         "gas": "0", 
@@ -1118,6 +1231,7 @@
         "totalrenewable": "29.24124023"
     }, 
     "LSO": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1128,6 +1242,7 @@
         "totalrenewable": "0"
     }, 
     "LTU": {
+        "coal": "0", 
         "consumption": "3607.703798", 
         "fillKey": "MEDIUM", 
         "gas": "63.56811658", 
@@ -1138,6 +1253,7 @@
         "totalrenewable": "26.12055641"
     }, 
     "LUX": {
+        "coal": "0", 
         "consumption": "14696.4098", 
         "fillKey": "LOW", 
         "gas": "86.74173629", 
@@ -1148,6 +1264,7 @@
         "totalrenewable": "11.04249909"
     }, 
     "LVA": {
+        "coal": "0.032425422", 
         "consumption": "3588.424431", 
         "fillKey": "VHIGH", 
         "gas": "33.31712062", 
@@ -1158,6 +1275,7 @@
         "totalrenewable": "66.63424125"
     }, 
     "MAC": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1168,6 +1286,7 @@
         "totalrenewable": "0"
     }, 
     "MAF": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1177,6 +1296,7 @@
         "totalrenewable": ".."
     }, 
     "MAR": {
+        "coal": "43.37296506", 
         "consumption": "875.176865", 
         "fillKey": "VLOW", 
         "gas": "22.68520212", 
@@ -1187,6 +1307,7 @@
         "totalrenewable": "8.629961588"
     }, 
     "MCO": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1196,6 +1317,7 @@
         "totalrenewable": ".."
     }, 
     "MDA": {
+        "coal": "0", 
         "consumption": "1514.530474", 
         "fillKey": "VLOW", 
         "gas": "95.08790072", 
@@ -1206,6 +1328,7 @@
         "totalrenewable": "4.636332299"
     }, 
     "MDG": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1216,6 +1339,7 @@
         "totalrenewable": "0"
     }, 
     "MDV": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1226,6 +1350,7 @@
         "totalrenewable": "0"
     }, 
     "MEX": {
+        "coal": "11.67724987", 
         "consumption": "2011.715104", 
         "fillKey": "LOW", 
         "gas": "51.35812048", 
@@ -1236,6 +1361,7 @@
         "totalrenewable": "15.0329066"
     }, 
     "MHL": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1245,6 +1371,7 @@
         "totalrenewable": ".."
     }, 
     "MKD": {
+        "coal": "77.16384542", 
         "consumption": "3689.706998", 
         "fillKey": "LOW", 
         "gas": "4.758862983", 
@@ -1255,6 +1382,7 @@
         "totalrenewable": "16.67198978"
     }, 
     "MLI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1265,6 +1393,7 @@
         "totalrenewable": "0"
     }, 
     "MLT": {
+        "coal": "0", 
         "consumption": "4760.939791", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -1275,6 +1404,7 @@
         "totalrenewable": "1.091703057"
     }, 
     "MMR": {
+        "coal": "7.184122251", 
         "consumption": "152.6534766", 
         "fillKey": "VHIGH", 
         "gas": "19.97763697", 
@@ -1285,6 +1415,7 @@
         "totalrenewable": "72.36302646"
     }, 
     "MNE": {
+        "coal": "48.06610408", 
         "consumption": "5415.717989", 
         "fillKey": "HIGH", 
         "gas": "0", 
@@ -1295,6 +1426,7 @@
         "totalrenewable": "51.93389592"
     }, 
     "MNG": {
+        "coal": "94.74667774", 
         "consumption": "1597.385501", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -1305,6 +1437,7 @@
         "totalrenewable": "0"
     }, 
     "MNP": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1314,6 +1447,7 @@
         "totalrenewable": ".."
     }, 
     "MOZ": {
+        "coal": "0", 
         "consumption": "444.4111451", 
         "fillKey": "VVHIGH", 
         "gas": "0.138467625", 
@@ -1324,6 +1458,7 @@
         "totalrenewable": "99.86153238"
     }, 
     "MRT": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1333,6 +1468,7 @@
         "totalrenewable": ".."
     }, 
     "MUS": {
+        "coal": "41.11548087", 
         "consumption": "2075.035712", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -1343,6 +1479,7 @@
         "totalrenewable": "0"
     }, 
     "MWI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1353,6 +1490,7 @@
         "totalrenewable": "0"
     }, 
     "MYS": {
+        "coal": "41.51479748", 
         "consumption": "4345.471047", 
         "fillKey": "VLOW", 
         "gas": "46.62042997", 
@@ -1363,6 +1501,7 @@
         "totalrenewable": "7.383484272"
     }, 
     "NAM": {
+        "coal": "0.91296409", 
         "consumption": "1590.560493", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -1373,6 +1512,7 @@
         "totalrenewable": "97.80888618"
     }, 
     "NCL": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1383,6 +1523,7 @@
         "totalrenewable": "0"
     }, 
     "NER": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1393,6 +1534,7 @@
         "totalrenewable": "0"
     }, 
     "NGA": {
+        "coal": "0", 
         "consumption": "155.854358", 
         "fillKey": "LOW", 
         "gas": "80.28635129", 
@@ -1403,6 +1545,7 @@
         "totalrenewable": "19.71364871"
     }, 
     "NIC": {
+        "coal": "0", 
         "consumption": "579.5440353", 
         "fillKey": "HIGH", 
         "gas": "0", 
@@ -1413,6 +1556,7 @@
         "totalrenewable": "42.81815927"
     }, 
     "NLD": {
+        "coal": "26.64357836", 
         "consumption": "6871.098842", 
         "fillKey": "LOW", 
         "gas": "54.37783523", 
@@ -1423,6 +1567,7 @@
         "totalrenewable": "12.23647627"
     }, 
     "NOR": {
+        "coal": "0.113781145", 
         "consumption": "23657.72103", 
         "fillKey": "VVHIGH", 
         "gas": "1.791882703", 
@@ -1433,6 +1578,7 @@
         "totalrenewable": "97.98191766"
     }, 
     "NPL": {
+        "coal": "0", 
         "consumption": "119.0886789", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -1443,6 +1589,7 @@
         "totalrenewable": "99.46509009"
     }, 
     "NZL": {
+        "coal": "8.021221357", 
         "consumption": "9373.426193", 
         "fillKey": "VHIGH", 
         "gas": "20.10384919", 
@@ -1453,6 +1600,7 @@
         "totalrenewable": "71.77559544"
     }, 
     "OMN": {
+        "coal": "0", 
         "consumption": "6094.733374", 
         "fillKey": "VLOW", 
         "gas": "97.58164448", 
@@ -1463,6 +1611,7 @@
         "totalrenewable": "0"
     }, 
     "PAK": {
+        "coal": "0.063459038", 
         "consumption": "451.6995477", 
         "fillKey": "MEDIUM", 
         "gas": "28.20910273", 
@@ -1473,6 +1622,7 @@
         "totalrenewable": "31.06059818"
     }, 
     "PAN": {
+        "coal": "8.064141297", 
         "consumption": "1973.683683", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -1483,6 +1633,7 @@
         "totalrenewable": "62.94445736"
     }, 
     "PER": {
+        "coal": "1.989526172", 
         "consumption": "1211.322691", 
         "fillKey": "HIGH", 
         "gas": "39.21922373", 
@@ -1493,6 +1644,7 @@
         "totalrenewable": "55.23315543"
     }, 
     "PHL": {
+        "coal": "38.76112505", 
         "consumption": "672.3890925", 
         "fillKey": "MEDIUM", 
         "gas": "26.93599923", 
@@ -1503,6 +1655,7 @@
         "totalrenewable": "28.44448101"
     }, 
     "PLW": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1513,6 +1666,7 @@
         "totalrenewable": "0"
     }, 
     "PNG": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1523,6 +1677,7 @@
         "totalrenewable": "0"
     }, 
     "POL": {
+        "coal": "84.3881987", 
         "consumption": "3899.176642", 
         "fillKey": "LOW", 
         "gas": "3.871103388", 
@@ -1533,6 +1688,7 @@
         "totalrenewable": "10.43775624"
     }, 
     "PRI": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1543,6 +1699,7 @@
         "totalrenewable": "0"
     }, 
     "PRK": {
+        "coal": "26.95466833", 
         "consumption": "653.9905965", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -1553,6 +1710,7 @@
         "totalrenewable": "70.18091079"
     }, 
     "PRT": {
+        "coal": "28.71467439", 
         "consumption": "4736.351771", 
         "fillKey": "HIGH", 
         "gas": "23.41144462", 
@@ -1563,6 +1721,7 @@
         "totalrenewable": "42.50043883"
     }, 
     "PRY": {
+        "coal": "0", 
         "consumption": "1367.891268", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -1573,6 +1732,7 @@
         "totalrenewable": "99.99501942"
     }, 
     "PYF": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1583,6 +1743,7 @@
         "totalrenewable": "0"
     }, 
     "QAT": {
+        "coal": "0", 
         "consumption": "16183.0778", 
         "gas": "100", 
         "hydroelectric": "0", 
@@ -1592,6 +1753,7 @@
         "totalrenewable": ".."
     }, 
     "ROM": {
+        "coal": "38.98322387", 
         "consumption": "2604.243137", 
         "fillKey": "MEDIUM", 
         "gas": "14.83479089", 
@@ -1602,6 +1764,7 @@
         "totalrenewable": "25.39558308"
     }, 
     "RUS": {
+        "coal": "15.74945783", 
         "consumption": "6617.136241", 
         "fillKey": "LOW", 
         "gas": "49.13219983", 
@@ -1612,6 +1775,7 @@
         "totalrenewable": "15.56373111"
     }, 
     "RWA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1622,6 +1786,7 @@
         "totalrenewable": "0"
     }, 
     "SAU": {
+        "coal": "0", 
         "consumption": "8404.516036", 
         "fillKey": "VLOW", 
         "gas": "44.6856596", 
@@ -1632,6 +1797,7 @@
         "totalrenewable": "0.00036808"
     }, 
     "SDN": {
+        "coal": "0", 
         "consumption": "156.9423377", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -1642,6 +1808,7 @@
         "totalrenewable": "70.14624841"
     }, 
     "SEN": {
+        "coal": "0", 
         "consumption": "209.5774576", 
         "fillKey": "VLOW", 
         "gas": "4.057971014", 
@@ -1652,6 +1819,7 @@
         "totalrenewable": "9.826086957"
     }, 
     "SGP": {
+        "coal": "0", 
         "consumption": "8689.669453", 
         "fillKey": "VLOW", 
         "gas": "84.27189019", 
@@ -1662,6 +1830,7 @@
         "totalrenewable": "1.359877227"
     }, 
     "SLB": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1672,6 +1841,7 @@
         "totalrenewable": "0"
     }, 
     "SLE": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1682,6 +1852,7 @@
         "totalrenewable": "0"
     }, 
     "SLV": {
+        "coal": "0", 
         "consumption": "881.2244194", 
         "fillKey": "VHIGH", 
         "gas": "0", 
@@ -1692,6 +1863,7 @@
         "totalrenewable": "64.0470508"
     }, 
     "SMR": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1701,6 +1873,7 @@
         "totalrenewable": ".."
     }, 
     "SOM": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1710,6 +1883,7 @@
         "totalrenewable": ".."
     }, 
     "SRB": {
+        "coal": "72.80418014", 
         "consumption": "4386.534552", 
         "fillKey": "MEDIUM", 
         "gas": "1.318736004", 
@@ -1720,6 +1894,7 @@
         "totalrenewable": "25.68908794"
     }, 
     "SSD": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1729,6 +1904,7 @@
         "totalrenewable": ".."
     }, 
     "STP": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1739,6 +1915,7 @@
         "totalrenewable": "0"
     }, 
     "SUR": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1749,6 +1926,7 @@
         "totalrenewable": "0"
     }, 
     "SVK": {
+        "coal": "13.78847783", 
         "consumption": "5137.789018", 
         "fillKey": "LOW", 
         "gas": "10.07130754", 
@@ -1759,6 +1937,7 @@
         "totalrenewable": "19.32363739"
     }, 
     "SVN": {
+        "coal": "33.10597774", 
         "consumption": "6777.794035", 
         "fillKey": "MEDIUM", 
         "gas": "3.416768548", 
@@ -1769,6 +1948,7 @@
         "totalrenewable": "27.81030822"
     }, 
     "SWE": {
+        "coal": "0.53834507", 
         "consumption": "14289.59509", 
         "fillKey": "HIGH", 
         "gas": "0.535941743", 
@@ -1779,6 +1959,7 @@
         "totalrenewable": "59.06774977"
     }, 
     "SWZ": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1789,6 +1970,7 @@
         "totalrenewable": "0"
     }, 
     "SXM": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1798,6 +1980,7 @@
         "totalrenewable": ".."
     }, 
     "SYC": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1808,6 +1991,7 @@
         "totalrenewable": "0"
     }, 
     "SYR": {
+        "coal": "0", 
         "consumption": "1221.720756", 
         "fillKey": "LOW", 
         "gas": "52.61318456", 
@@ -1818,6 +2002,7 @@
         "totalrenewable": "10.37899192"
     }, 
     "TCA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1828,6 +2013,7 @@
         "totalrenewable": "0"
     }, 
     "TCD": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1838,6 +2024,7 @@
         "totalrenewable": "0"
     }, 
     "TGO": {
+        "coal": "0", 
         "consumption": "144.983805", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -1848,6 +2035,7 @@
         "totalrenewable": "84.68468468"
     }, 
     "THA": {
+        "coal": "20.02088572", 
         "consumption": "2464.678691", 
         "fillKey": "VLOW", 
         "gas": "70.25404961", 
@@ -1858,6 +2046,7 @@
         "totalrenewable": "8.26846556"
     }, 
     "TJK": {
+        "coal": "0", 
         "consumption": "1748.597169", 
         "fillKey": "VVHIGH", 
         "gas": "0.435960881", 
@@ -1868,6 +2057,7 @@
         "totalrenewable": "99.56403912"
     }, 
     "TKM": {
+        "coal": "0", 
         "consumption": "2476.154281", 
         "gas": "100", 
         "hydroelectric": "0", 
@@ -1877,6 +2067,7 @@
         "totalrenewable": ".."
     }, 
     "TMP": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1887,6 +2078,7 @@
         "totalrenewable": "0"
     }, 
     "TON": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1897,6 +2089,7 @@
         "totalrenewable": "0"
     }, 
     "TTO": {
+        "coal": "0", 
         "consumption": "6628.756115", 
         "gas": "99.73718791", 
         "hydroelectric": "0", 
@@ -1906,6 +2099,7 @@
         "totalrenewable": ".."
     }, 
     "TUN": {
+        "coal": "0", 
         "consumption": "1411.087915", 
         "fillKey": "VLOW", 
         "gas": "96.99193773", 
@@ -1916,6 +2110,7 @@
         "totalrenewable": "1.729218793"
     }, 
     "TUR": {
+        "coal": "28.39838661", 
         "consumption": "2789.663675", 
         "fillKey": "MEDIUM", 
         "gas": "43.63287905", 
@@ -1926,6 +2121,7 @@
         "totalrenewable": "27.23051742"
     }, 
     "TUV": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -1935,6 +2131,7 @@
         "totalrenewable": ".."
     }, 
     "TZA": {
+        "coal": "0", 
         "consumption": "98.83708345", 
         "fillKey": "MEDIUM", 
         "gas": "50.73339085", 
@@ -1945,6 +2142,7 @@
         "totalrenewable": "29.14581536"
     }, 
     "UGA": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -1955,6 +2153,7 @@
         "totalrenewable": "0"
     }, 
     "UKR": {
+        "coal": "40.54082667", 
         "consumption": "3640.556836", 
         "fillKey": "VLOW", 
         "gas": "8.085681301", 
@@ -1965,6 +2164,7 @@
         "totalrenewable": "5.663354557"
     }, 
     "URY": {
+        "coal": "0", 
         "consumption": "2931.917628", 
         "fillKey": "VHIGH", 
         "gas": "0.075471698", 
@@ -1975,6 +2175,7 @@
         "totalrenewable": "61.72641509"
     }, 
     "USA": {
+        "coal": "38.48087383", 
         "consumption": "12954.15326", 
         "fillKey": "LOW", 
         "gas": "29.60945459", 
@@ -1985,6 +2186,7 @@
         "totalrenewable": "12.00506887"
     }, 
     "UZB": {
+        "coal": "4.085714286", 
         "consumption": "1605.333423", 
         "fillKey": "MEDIUM", 
         "gas": "73.83238095", 
@@ -1995,6 +2197,7 @@
         "totalrenewable": "21.35238095"
     }, 
     "VCT": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -2005,6 +2208,7 @@
         "totalrenewable": "0"
     }, 
     "VEN": {
+        "coal": "0", 
         "consumption": "3412.681308", 
         "fillKey": "VHIGH", 
         "gas": "19.67261058", 
@@ -2015,6 +2219,7 @@
         "totalrenewable": "64.82025989"
     }, 
     "VIR": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -2024,6 +2229,7 @@
         "totalrenewable": ".."
     }, 
     "VNM": {
+        "coal": "17.93235378", 
         "consumption": "1272.539255", 
         "fillKey": "HIGH", 
         "gas": "35.75155684", 
@@ -2034,6 +2240,7 @@
         "totalrenewable": "43.57360902"
     }, 
     "VUT": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -2044,6 +2251,7 @@
         "totalrenewable": "0"
     }, 
     "WBG": {
+        "coal": "..", 
         "consumption": "..", 
         "gas": "..", 
         "hydroelectric": "..", 
@@ -2053,6 +2261,7 @@
         "totalrenewable": ".."
     }, 
     "WSM": {
+        "coal": "..", 
         "consumption": "..", 
         "fillKey": "VLOW", 
         "gas": "..", 
@@ -2063,6 +2272,7 @@
         "totalrenewable": "0"
     }, 
     "YEM": {
+        "coal": "0", 
         "consumption": "170.0773772", 
         "fillKey": "VLOW", 
         "gas": "33.75892993", 
@@ -2073,6 +2283,7 @@
         "totalrenewable": "0"
     }, 
     "ZAF": {
+        "coal": "93.84162383", 
         "consumption": "4404.500084", 
         "fillKey": "VLOW", 
         "gas": "0", 
@@ -2083,6 +2294,7 @@
         "totalrenewable": "0.955887254"
     }, 
     "ZAR": {
+        "coal": "0", 
         "consumption": "104.8922795", 
         "fillKey": "VVHIGH", 
         "gas": "0.364047201", 
@@ -2093,6 +2305,7 @@
         "totalrenewable": "99.56063269"
     }, 
     "ZMB": {
+        "coal": "0", 
         "consumption": "571.2611996", 
         "fillKey": "VVHIGH", 
         "gas": "0", 
@@ -2103,6 +2316,7 @@
         "totalrenewable": "99.69620253"
     }, 
     "ZWE": {
+        "coal": "39.73371479", 
         "consumption": "561.807704", 
         "fillKey": "HIGH", 
         "gas": "0", 

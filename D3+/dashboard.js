@@ -137,9 +137,10 @@ function barGraph(countryobject, name) {
                         + Number(countryobject.hydroelectric)
                         + Number(countryobject.nuclear)
                         + Number(countryobject.gas)
-                        + Number(countryobject.oil);
+                        + Number(countryobject.oil)
+                        + Number(countryobject.coal);
         bardata = [String(percentageknown), countryobject.renewable, countryobject.hydroelectric,
-                countryobject.nuclear, countryobject.gas, countryobject.oil];
+                countryobject.nuclear, countryobject.gas, countryobject.oil, countryobject.coal];
         // bardata.sort(d3.descending); // I decided not to sort the data as this allows for better comparisons across countries
 
         // define scaling
@@ -188,6 +189,9 @@ function barGraph(countryobject, name) {
                 else if (countryobject.getKey(d) == 'oil'){
                     return '#F11';
                 }
+                else if (countryobject.getKey(d) == 'coal'){
+                    return '#950000';
+                }
                 else {
                     return 'steelblue';
                 };
@@ -219,7 +223,8 @@ function barGraph(countryobject, name) {
                     else if (i == 2) { return "hydroelectric" }
                     else if (i == 3) { return "nuclear" }
                     else if (i == 4) { return "gas" }
-                    else if (i == 5) { return "oil" };
+                    else if (i == 5) { return "oil" }
+                    else if (i == 6) { return "coal" };
             });
     };
 };

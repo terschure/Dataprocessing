@@ -55,8 +55,8 @@ for each in reader:
                 datapoints[each['countrycode']]['nuclear'] = each['2012']
             elif each['seriesname'] == "Electricity production from oil sources (perc of total)":
                 datapoints[each['countrycode']]['oil'] = each['2012']
-            elif each['seriesname'] == "Electricity production from oil sources (perc of total)":
-                datapoints[each['countrycode']]['oil'] = each['2012']
+            elif each['seriesname'] == "Electricity production from coal sources (perc of total)":
+                datapoints[each['countrycode']]['coal'] = each['2012']
 
 # make outputfile
 with open('electricity.json', 'w') as outfile:
