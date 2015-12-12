@@ -1,22 +1,6 @@
 {
     "ABW": [
         {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
             "percentage": "11.32737715", 
             "year": "2010"
         }, 
@@ -29,36 +13,7 @@
             "year": "2012"
         }
     ], 
-    "ADO": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "ADO": [], 
     "AFG": [
         {
             "percentage": "70.75575027", 
@@ -239,36 +194,7 @@
             "year": "2012"
         }
     ], 
-    "ASM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "ASM": [], 
     "ATG": [
         {
             "percentage": "0", 
@@ -1019,36 +945,7 @@
             "year": "2012"
         }
     ], 
-    "CHI": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "CHI": [], 
     "CHL": [
         {
             "percentage": "55.25488069", 
@@ -1349,36 +1246,7 @@
             "year": "2012"
         }
     ], 
-    "CUW": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "CUW": [], 
     "CYM": [
         {
             "percentage": "0", 
@@ -1919,66 +1787,8 @@
             "year": "2012"
         }
     ], 
-    "FRO": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
-    "FSM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "FRO": [], 
+    "FSM": [], 
     "GAB": [
         {
             "percentage": "57.34055355", 
@@ -2279,36 +2089,7 @@
             "year": "2012"
         }
     ], 
-    "GRL": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "GRL": [], 
     "GTM": [
         {
             "percentage": "51.95934362", 
@@ -2339,36 +2120,7 @@
             "year": "2012"
         }
     ], 
-    "GUM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "GUM": [], 
     "GUY": [
         {
             "percentage": "0", 
@@ -2399,36 +2151,7 @@
             "year": "2012"
         }
     ], 
-    "HKG": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "HKG": [], 
     "HND": [
         {
             "percentage": "36.92821369", 
@@ -2579,36 +2302,7 @@
             "year": "2012"
         }
     ], 
-    "IMY": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "IMY": [], 
     "IND": [
         {
             "percentage": "17.54042472", 
@@ -3239,36 +2933,7 @@
             "year": "2012"
         }
     ], 
-    "LBR": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "LBR": [], 
     "LBY": [
         {
             "percentage": "0", 
@@ -3329,36 +2994,7 @@
             "year": "2012"
         }
     ], 
-    "LIE": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "LIE": [], 
     "LKA": [
         {
             "percentage": "49", 
@@ -3539,36 +3175,7 @@
             "year": "2012"
         }
     ], 
-    "MAF": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "MAF": [], 
     "MAR": [
         {
             "percentage": "5.945428917", 
@@ -3599,36 +3206,7 @@
             "year": "2012"
         }
     ], 
-    "MCO": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "MCO": [], 
     "MDA": [
         {
             "percentage": "6.199638217", 
@@ -3749,36 +3327,7 @@
             "year": "2012"
         }
     ], 
-    "MHL": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "MHL": [], 
     "MKD": [
         {
             "percentage": "23.55124179", 
@@ -3959,36 +3508,7 @@
             "year": "2012"
         }
     ], 
-    "MNP": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "MNP": [], 
     "MOZ": [
         {
             "percentage": "99.86428717", 
@@ -4019,36 +3539,7 @@
             "year": "2012"
         }
     ], 
-    "MRT": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "MRT": [], 
     "MUS": [
         {
             "percentage": "1.646668369", 
@@ -4799,36 +4290,7 @@
             "year": "2012"
         }
     ], 
-    "QAT": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "QAT": [], 
     "ROM": [
         {
             "percentage": "29.28369778", 
@@ -5129,66 +4591,8 @@
             "year": "2012"
         }
     ], 
-    "SMR": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
-    "SOM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "SMR": [], 
+    "SOM": [], 
     "SRB": [
         {
             "percentage": "30.05674187", 
@@ -5219,36 +4623,7 @@
             "year": "2012"
         }
     ], 
-    "SSD": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "SSD": [], 
     "STP": [
         {
             "percentage": "18.60465116", 
@@ -5429,36 +4804,7 @@
             "year": "2012"
         }
     ], 
-    "SXM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "SXM": [], 
     "SYC": [
         {
             "percentage": "0", 
@@ -5669,36 +5015,7 @@
             "year": "2012"
         }
     ], 
-    "TKM": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "TKM": [], 
     "TMP": [
         {
             "percentage": "0", 
@@ -5775,18 +5092,6 @@
         {
             "percentage": "0.242254239", 
             "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
         }
     ], 
     "TUN": [
@@ -5849,36 +5154,7 @@
             "year": "2012"
         }
     ], 
-    "TUV": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "TUV": [], 
     "TZA": [
         {
             "percentage": "41.65941398", 
@@ -6119,36 +5395,7 @@
             "year": "2012"
         }
     ], 
-    "VIR": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "VIR": [], 
     "VNM": [
         {
             "percentage": "33.84358521", 
@@ -6209,36 +5456,7 @@
             "year": "2012"
         }
     ], 
-    "WBG": [
-        {
-            "percentage": "..", 
-            "year": "2006"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2007"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2008"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2009"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2010"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2011"
-        }, 
-        {
-            "percentage": "..", 
-            "year": "2012"
-        }
-    ], 
+    "WBG": [], 
     "WSM": [
         {
             "percentage": "45.25862069", 

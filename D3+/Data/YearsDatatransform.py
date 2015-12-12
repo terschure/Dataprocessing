@@ -26,39 +26,46 @@ for each in reader:
             data = []
             point = {}
 
-            point['year'] = '2006'
-            point['percentage'] = each['2006']
-            data.append(point)
-            point = {}
+            if (each['2006'] != '..'):
+                point['year'] = '2006'
+                point['percentage'] = each['2006']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2007'
-            point['percentage'] = each['2007']
-            data.append(point)
-            point = {}
+            if (each['2007'] != '..'):
+                point['year'] = '2007'
+                point['percentage'] = each['2007']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2008'
-            point['percentage'] = each['2008']
-            data.append(point)
-            point = {}
+            if (each['2008'] != '..'):
+                point['year'] = '2008'
+                point['percentage'] = each['2008']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2009'
-            point['percentage'] = each['2009']
-            data.append(point)
-            point = {}
+            if (each['2009'] != '..'):
+                point['year'] = '2009'
+                point['percentage'] = each['2009']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2010'
-            point['percentage'] = each['2010']
-            data.append(point)
-            point = {}
+            if (each['2010'] != '..'):
+                point['year'] = '2010'
+                point['percentage'] = each['2010']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2011'
-            point['percentage'] = each['2011']
-            data.append(point)
-            point = {}
+            if (each['2011'] != '..'):
+                point['year'] = '2011'
+                point['percentage'] = each['2011']
+                data.append(point)
+                point = {}
 
-            point['year'] = '2012'
-            point['percentage'] = each['2012']
-            data.append(point)
+            if (each['2012'] != '..'):
+                point['year'] = '2012'
+                point['percentage'] = each['2012']
+                data.append(point)
 
             datapoints[each['countrycode']] = data
 

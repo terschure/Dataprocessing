@@ -88,7 +88,7 @@ body {
 }
 
 #textarea {
-    margin-top: 600px;
+    margin-top: 850px;
     width: 700px;
     clear: both;
     background-color:white;
@@ -113,11 +113,12 @@ body {
 /**
  * styles for line graph
  */
- /*#time {
+ #time {
     position: absolute;
     margin-top: 500px;
     background-color:#F1F5FF;
     width: 700px;
+    vertical-align: text-top;
  }
 
  .axis path,
@@ -127,12 +128,7 @@ body {
     shape-rendering: crispEdges;
  }
 
- .line path {
-     fill: none;
-     stroke: darkred;
- }
-
  .axis text {
      fill: black;
      font: 10px sans-serif;
- }*/
+ }
